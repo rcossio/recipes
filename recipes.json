@@ -1,0 +1,328 @@
+[
+  {
+    "id": "frijoles-valeriana",
+    "emoji": "🫘",
+    "title": "Frijoles con Valeriana",
+    "sections": [
+      {
+        "type": "ingredients",
+        "items": [
+          { "emoji": "🧅", "name": "Cebolla" },
+          { "emoji": "🫑", "name": "Morron" },
+          { "emoji": "🥩", "name": "Carne cortada" },
+          { "emoji": "🫘", "name": "Frejoles" },
+          { "emoji": "🍺", "name": "Cerveza" },
+          { "emoji": "🥬", "name": "Valeriana tierna" },
+          { "emoji": "🍚", "name": "Arroz" }
+        ]
+      },
+      {
+        "type": "steps",
+        "items": [
+          "Freir con aceite todo junto cebolla, carne y morron hasta que suelte el agua y se reduzca. Opcional incluir una salchicha o chorizo.",
+          "Agregar un poco de cerveza y volver a esperar a que se reduzca. La idea es que se fria y se caramelize todo.",
+          "Luego se agrega el resto de la cerveza y agua y se hierve. Un tiempo despues se agregan los frijoles y se hierve hasta que tenga textura mas homogenea."
+        ]
+      }
+    ],
+    "serving": "Se sirve en el plato tercios de frijoles, valeriana y arroz."
+  },
+  {
+    "id": "ensalada-cesar",
+    "emoji": "🥗",
+    "title": "Ensalada Cesar",
+    "sections": [
+      {
+        "type": "ingredients",
+        "subtitle": "Salsa",
+        "subtitleEmoji": "🥣",
+        "items": [
+          { "name": "120gr yogurt" },
+          { "name": "1/4 cucharita de aceto balsámico" },
+          { "name": "1/4 cucharita de salsa de soja" },
+          { "name": "1 cucharita de mostaza" },
+          { "name": "1/2 dientecito de ajo" },
+          { "name": "1 anchoa en su aceite o sardinas" },
+          { "name": "30gr de queso parmesano" },
+          { "name": "Pizca de pimienta" }
+        ]
+      },
+      {
+        "type": "ingredients",
+        "subtitle": "Ensalada",
+        "subtitleEmoji": "🥬",
+        "items": [
+          { "name": "Lechuga (lavar y secar bien)" },
+          { "name": "Crutones (aceite, orégano y tostadas)" },
+          { "name": "Pollo" },
+          { "name": "Queso parmesano" }
+        ]
+      }
+    ],
+    "serving": "Mezclar la salsa en el momento de consumirla."
+  },
+  {
+    "id": "trofie-pomodoro-sardine",
+    "emoji": "🍝",
+    "title": "Trofie, pomodoro e sardine",
+    "sections": [
+      {
+        "type": "ingredients",
+        "items": [
+          { "emoji": "🍝", "name": "Fideos tipo trofie liguri o fideos sin relleno" },
+          { "emoji": "🐟", "name": "Sardinas en aceite" },
+          { "emoji": "🍅", "name": "2-3 tomates por porción (redondos, cherry, o mezcla)" },
+          { "emoji": "🧅", "name": "1/2 cebolla por porción" },
+          { "emoji": "🧀", "name": "Queso tipo emmental" },
+          { "emoji": "🌿", "name": "Perejil" }
+        ]
+      },
+      {
+        "type": "steps",
+        "items": [
+          "Se ponen a hervir los fideos como normalmente.",
+          "Se pica la cebolla bien chica y se dora en una sartén con aceite de oliva.",
+          "Se cortan los tomates en pedazos medianos (los cherry enteros o por la mitad) y se agregan a la sartén. Se cocinan a fuego medio-bajo unos 10 minutos hasta que se rompan y formen salsa.",
+          "Se agregan una o dos sardinas cortadas medianas y se mezcla.",
+          "Se agregan los fideos ya cocidos, un poco de perejil y se le ralla un poco de queso encima. Se rehoga todo hasta que derrita el queso y se sirve en el momento."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "risotto-durelli-calabaza-hongos",
+    "emoji": "🍚",
+    "title": "Risotto con durelli, calabaza y hongos",
+    "sections": [
+      {
+        "type": "ingredients",
+        "items": [
+          { "emoji": "🍚", "name": "Arroz" },
+          { "emoji": "🐔", "name": "Durelli de pollo" },
+          { "emoji": "🧅", "name": "Cebolla" },
+          { "emoji": "🎃", "name": "Calabaza en cubitos chicos (mismo volumen que el arroz, en crudo)" },
+          { "emoji": "🍄", "name": "Champignones fileteados" },
+          { "emoji": "🧈", "name": "Manteca" },
+          { "emoji": "🧀", "name": "Pecorino o queso rallado" },
+          { "emoji": "🥣", "name": "Caldo de verduras" }
+        ]
+      },
+      {
+        "type": "steps",
+        "items": [
+          "Se cortan los durelli lo más chico posible o se los procesa.",
+          "Se cortan las cebollas chicas, la calabaza en cubitos chicos y los champignones fileteados.",
+          "Se rehogan los durellis y la cebolla en un poco de aceite de oliva.",
+          "Se agregan los champignones y la calabaza y se siguen rehogando unos minutos.",
+          "Al mismo tiempo se pone a hervir el caldo por separado.",
+          "Una vez cocinados los durellis y las verduras se agrega el arroz y se lo blanquea.",
+          "De a poco se va agregando el caldo caliente a medida que se cocina el arroz. La calabaza se irá deshaciendo parcialmente y dará color al risotto.",
+          "Una vez en su punto el arroz se hace el mantecado rallando queso y agregando un poco de manteca mezclando todo."
+        ]
+      }
+    ],
+    "serving": "Se sirve en el momento."
+  },
+  {
+    "id": "causa-pulpo",
+    "emoji": "🐙🥔",
+    "title": "Causa de Pulpo",
+    "subtitle": "Plato de festejo - 3 personas",
+    "sections": [
+      {
+        "type": "ingredients",
+        "items": [
+          { "emoji": "🐙", "name": "500 g pulpo cocido" },
+          { "emoji": "🥔", "name": "4 papas grandes" },
+          { "emoji": "🥚", "name": "3-4 huevos" },
+          { "emoji": "🥑", "name": "1 palta" },
+          { "emoji": "🥄", "name": "2-3 cdas mayonesa" },
+          { "emoji": "🌶️", "name": "Ají amarillo" },
+          { "emoji": "🍋", "name": "1 limón" },
+          { "emoji": "🧄", "name": "1 diente de ajo" },
+          { "emoji": "🌶️", "name": "Pimentón (paprika)" },
+          { "emoji": "🧅", "name": "1/2 cebolla" },
+          { "emoji": "🌿", "name": "Perejil" },
+          { "emoji": "🧀", "name": "Queso fresco" },
+          { "emoji": "🫒", "name": "Aceite de oliva, sal, vinagre" }
+        ]
+      },
+      {
+        "type": "steps",
+        "subtitle": "Puré (base)",
+        "subtitleEmoji": "🥔",
+        "items": [
+          "Hervir papas, pelar y aplastar en caliente.",
+          "Secarlas 1-2 min en la olla.",
+          "Mezclar con ají amarillo, limón, sal y aceite. Debe quedar firme y moldeable, no líquido."
+        ]
+      },
+      {
+        "type": "steps",
+        "subtitle": "Pulpo",
+        "subtitleEmoji": "🐙",
+        "items": [
+          "Si está crudo, hervir 30-45 min (\"asustar\" antes).",
+          "Saltear con aceite, ajo y pimentón.",
+          "Añadir perejil y un chorrito de limón. Opcional: mezclar parte con mayonesa."
+        ]
+      },
+      {
+        "type": "steps",
+        "subtitle": "Cebolla",
+        "subtitleEmoji": "🧅",
+        "items": [
+          "Cortar fina.",
+          "Dejar 5 min en agua con sal.",
+          "Escurrir y mezclar con limón y vinagre. Reposar 10-15 min."
+        ]
+      },
+      {
+        "type": "steps",
+        "subtitle": "Huevos",
+        "subtitleEmoji": "🥚",
+        "items": [
+          "Cocer y picar.",
+          "Mezclar con pizca de sal (opcional un poco de mayo)."
+        ]
+      },
+      {
+        "type": "steps",
+        "subtitle": "Armado",
+        "subtitleEmoji": "🏗️",
+        "items": [
+          "Capa de papa.",
+          "Capa de palta.",
+          "Capa de pulpo.",
+          "Capa de huevo.",
+          "Capa de cebolla con queso.",
+          "Capa de papa. Presionar ligeramente."
+        ]
+      },
+      {
+        "type": "steps",
+        "subtitle": "Reposo y final",
+        "subtitleEmoji": "❄️",
+        "items": [
+          "Nevera 30-45 min.",
+          "Terminar con chorrito de aceite de oliva, perejil y pizca de pimentón."
+        ]
+      }
+    ],
+    "serving": "Cremosa, fresca, con pulpo protagonista y equilibrio perfecto."
+  },
+  {
+    "id": "pasta-camarones-espinaca-champinones",
+    "emoji": "🍝🦐",
+    "title": "Pasta con camarones, espinaca y champiñones en crema",
+    "description": "Cremosa pero no pesada, con champiñones dorados y espinaca que se funde al final. Lista en ~25 minutos.",
+    "sections": [
+      {
+        "type": "ingredients",
+        "items": [
+          { "emoji": "🍝", "name": "400 g pasta corta (penne o fusilli)" },
+          { "emoji": "🦐", "name": "400 g camarones pelados" },
+          { "emoji": "🍄", "name": "300 g champiñones en láminas" },
+          { "emoji": "🥬", "name": "200 g espinaca fresca" },
+          { "emoji": "🧄", "name": "3 dientes de ajo picados" },
+          { "emoji": "🧅", "name": "1 chalota o cebolla picada" },
+          { "emoji": "🥛", "name": "200 ml crema de leche (panna)" },
+          { "emoji": "🍷", "name": "80 ml vino blanco" },
+          { "emoji": "🧀", "name": "50 g parmesano rallado" },
+          { "emoji": "🧈", "name": "30 g manteca" },
+          { "emoji": "🫒", "name": "29.6 ml aceite de oliva" },
+          { "emoji": "🧂", "name": "4.9 ml sal" },
+          { "emoji": "🌶️", "name": "2 1/2 ml pimienta negra" },
+          { "emoji": "🍋", "name": "4.9 ml ralladura de limón" },
+          { "emoji": "🌿", "name": "29.6 ml perejil fresco picado" }
+        ]
+      },
+      {
+        "type": "steps",
+        "items": [
+          "Poner agua a hervir con sal abundante. Cocinar 400 g pasta corta (penne o fusilli) hasta al dente según el paquete. Reservar 1 taza del agua de cocción antes de colar. (10m)",
+          "En una sartén grande, calentar 29.6 ml aceite de oliva a fuego fuerte. Agregar 300 g champiñones en láminas en una sola capa y dejarlos sin mover 3-4 minutos hasta que doren. Saltear otros 2-3 minutos. Retirar y reservar. (6m)",
+          "Bajar el fuego a medio. Agregar 30 g manteca a la misma sartén con 1 chalota o cebolla picada y cocinar 2 minutos hasta transparente. Sumar 3 dientes de ajo picados y cocinar 30 segundos más. (2m 30s)",
+          "Subir el fuego. Agregar 400 g camarones pelados con 4.9 ml sal y 2 1/2 ml pimienta negra. Saltear 2 minutos por lado hasta que estén rosados. Retirar y reservar junto con los champiñones. (4m)",
+          "Desglasar con 80 ml vino blanco raspando el fondo de la sartén. Reducir 1-2 minutos. Agregar 200 ml crema de leche (panna) y 50 g parmesano rallado, mezclar hasta que se integre. (3m)",
+          "Agregar 200 g espinaca fresca de a puñados, mezclando hasta que se reduzca. Incorporar 4.9 ml ralladura de limón. (2m)",
+          "Volcar la pasta colada, los champiñones y los camarones a la sartén. Mezclar bien, agregando agua de cocción reservada si necesita aflojarse. Terminar con 29.6 ml perejil fresco picado y más parmesano por arriba. (1m)"
+        ]
+      }
+    ],
+    "notes": "Si querés meter más verdura, agregá un calabacín en cubos junto con los champiñones, o un puñado de arvejas al final con la espinaca. Para versión más liviana, reemplazá la mitad de la crema por agua de cocción de la pasta."
+  },
+  {
+    "id": "cous-cous-mediterraneo-pollo-stracchino",
+    "emoji": "🥘",
+    "title": "Cous cous mediterráneo con pollo y stracchino",
+    "sections": [
+      {
+        "type": "ingredients",
+        "items": [
+          { "emoji": "🌾", "name": "Cous cous integral" },
+          { "emoji": "🐔", "name": "Pollo en cubos (o cerdo: bondiola o solomillo)" },
+          { "emoji": "🥒", "name": "Calabacín en cubos" },
+          { "emoji": "🍅", "name": "Tomate cherry" },
+          { "emoji": "🧅", "name": "Cebolla morada" },
+          { "emoji": "🫘", "name": "Garbanzos cocidos" },
+          { "emoji": "🧀", "name": "Stracchino" },
+          { "emoji": "🧄", "name": "Ajo" },
+          { "emoji": "🌿", "name": "Albahaca fresca" },
+          { "emoji": "🍋", "name": "Limón (jugo y ralladura)" },
+          { "emoji": "🫒", "name": "Aceite de oliva, sal, pimienta" }
+        ]
+      },
+      {
+        "type": "steps",
+        "items": [
+          "Hidratar el cous cous según paquete (generalmente mismo volumen de agua hirviendo con sal y un chorrito de aceite, tapar 5 minutos y soltar con tenedor).",
+          "Cortar el pollo en cubos, salpimentar. Saltear en sartén con aceite de oliva a fuego fuerte hasta dorar. Retirar y reservar.",
+          "En la misma sartén, agregar la cebolla morada en pluma y el ajo picado. Saltear 2 minutos.",
+          "Sumar el calabacín en cubos y saltear hasta que esté tierno pero firme, unos 5 minutos.",
+          "Agregar los tomates cherry cortados al medio y los garbanzos. Cocinar 2-3 minutos hasta que los tomates se ablanden un poco.",
+          "Volver a incorporar el pollo a la sartén, mezclar.",
+          "Sumar el cous cous, ralladura y jugo de limón, y mezclar todo bien.",
+          "Servir tibio con trozos de stracchino por encima para que se derrita ligeramente, y hojas de albahaca fresca."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gulash-papa-col",
+    "emoji": "🥘",
+    "title": "Gulash con papa y col",
+    "sections": [
+      {
+        "type": "ingredients",
+        "items": [
+          { "emoji": "🥩", "name": "Carne en cubos (aguja, cuadril o roast beef)" },
+          { "emoji": "🧅", "name": "Cebolla (mucha, casi igual cantidad que la carne)" },
+          { "emoji": "🌶️", "name": "Pimentón dulce en polvo (generoso, 2-3 cucharadas)" },
+          { "emoji": "🫑", "name": "Morrón" },
+          { "emoji": "🍅", "name": "Tomate (fresco o triturado)" },
+          { "emoji": "🧄", "name": "Ajo" },
+          { "emoji": "🥔", "name": "Papa en cubos" },
+          { "emoji": "🥬", "name": "Col blanca en tiras" },
+          { "emoji": "🌿", "name": "Comino, laurel, orégano (en lugar de mejorana)" },
+          { "emoji": "🥣", "name": "Caldo o agua" },
+          { "emoji": "🫒", "name": "Aceite, sal, pimienta" }
+        ]
+      },
+      {
+        "type": "steps",
+        "items": [
+          "Cortar la cebolla en pluma y rehogarla en aceite a fuego medio-bajo hasta que esté bien dorada y dulce, unos 10-15 minutos. Este paso es clave, no apurarlo.",
+          "Agregar el ajo picado y el morrón en tiras, cocinar 3-4 minutos.",
+          "Retirar la sartén del fuego, sumar el pimentón dulce y mezclar bien (si se quema el pimentón amarga, por eso fuera del fuego). Volver al fuego.",
+          "Agregar la carne en cubos, sellar por todos lados.",
+          "Sumar el tomate, comino, laurel, orégano, sal y pimienta. Cubrir con caldo o agua.",
+          "Cocinar a fuego bajo tapado 1 hora a 1 hora y media, hasta que la carne empiece a estar tierna.",
+          "Agregar la papa en cubos y cocinar 15 minutos más.",
+          "Sumar la col en tiras y cocinar 15-20 minutos más, hasta que la col esté tierna y la papa cocida. Ajustar sal."
+        ]
+      }
+    ],
+    "serving": "Se sirve solo, no necesita acompañamiento. La col y la papa hacen el trabajo de los carbohidratos y verduras."
+  }
+]
