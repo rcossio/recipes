@@ -324,5 +324,148 @@
       }
     ],
     "serving": "Se sirve solo, no necesita acompañamiento. La col y la papa hacen el trabajo de los carbohidratos y verduras."
+  },
+  {
+    "id": "pizza-javi",
+    "emoji": "🍕",
+    "title": "Pizza Javi",
+    "sections": [
+      {
+        "type": "ingredients",
+        "items": [
+          { "emoji": "🍕", "name": "Masa de pizza" },
+          { "emoji": "🍅", "name": "Salsa de tomate" },
+          { "emoji": "🧅", "name": "Cebolla en juliana" },
+          { "emoji": "🐟", "name": "Atún en lata" },
+          { "emoji": "🥚", "name": "Huevo duro" },
+          { "emoji": "🧀", "name": "Queso mozzarella" },
+          { "emoji": "🌿", "name": "Orégano, sal, aceite de oliva" }
+        ]
+      },
+      {
+        "type": "steps",
+        "items": [
+          "Hervir los huevos hasta que estén duros. Pelar y cortar en rodajas.",
+          "Saltear la cebolla en juliana con aceite hasta que esté transparente y ligeramente dorada.",
+          "Extender la salsa de tomate sobre la masa. Condimentar con sal y orégano.",
+          "Distribuir el atún escurrido, la cebolla salteada y las rodajas de huevo.",
+          "Cubrir con mozzarella y hornear a temperatura alta hasta que el queso esté dorado."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "pollo-sillao",
+    "emoji": "🍗🥢",
+    "title": "Pollo al Sillao",
+    "sections": [
+      {
+        "type": "ingredients",
+        "items": [
+          { "emoji": "🐔", "name": "Pollo en trozos" },
+          { "emoji": "🍄", "name": "Champiñones fileteados" },
+          { "emoji": "🥦", "name": "Brócoli en arbolitos" },
+          { "emoji": "🧄", "name": "Ajo picado" },
+          { "emoji": "🫚", "name": "Jengibre en polvo" },
+          { "emoji": "🥢", "name": "Salsa de soja" },
+          { "emoji": "🌽", "name": "Maicena" },
+          { "emoji": "🍚", "name": "Arroz blanco" },
+          { "emoji": "🌿", "name": "Cebolla de verdeo" },
+          { "emoji": "🫒", "name": "Aceite neutro, sal, pimienta" },
+          { "emoji": "🌾", "name": "Semillas de sésamo" }
+        ]
+      },
+      {
+        "type": "steps",
+        "items": [
+          "Disolver la maicena en un poco de agua fría. Reservar.",
+          "Calentar el wok a fuego fuerte con aceite. Dorar el pollo por todos lados hasta que esté cocido. Retirar y reservar.",
+          "En el mismo wok agregar el ajo y saltear unos segundos. Sumar los champiñones y saltear hasta que doren.",
+          "Agregar el brócoli y saltear 2-3 minutos hasta que esté tierno pero con color.",
+          "Volver el pollo al wok. Agregar la salsa de soja y el jengibre en polvo, mezclar bien.",
+          "Incorporar la maicena disuelta de a poco, mezclando hasta que el gravy espese a gusto.",
+          "Servir sobre arroz blanco con cebolla de verdeo picada y semillas de sésamo por encima."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lengua-rojito",
+    "emoji": "🐮🌶️",
+    "title": "Lengua con Rojito",
+    "sections": [
+      {
+        "type": "ingredients",
+        "items": [
+          { "emoji": "🐮", "name": "Lengua de res" },
+          { "emoji": "🫑", "name": "Morrón en cubos (generoso, casi tanto como la carne)" },
+          { "emoji": "🧅", "name": "Cebolla en cubos" },
+          { "emoji": "🥬", "name": "Acelga (tallos en trozos, hojas reservadas)" },
+          { "emoji": "🌶️", "name": "Rojito en polvo" },
+          { "emoji": "🧄", "name": "Ajo picado" },
+          { "emoji": "🍚", "name": "Arroz blanco" },
+          { "emoji": "🫒", "name": "Aceite, sal, pimienta" }
+        ]
+      },
+      {
+        "type": "steps",
+        "items": [
+          "Hervir la lengua hasta que esté tierna (1.5 a 2 horas). Pelar y cortar en rodajas o cubos.",
+          "En una olla con aceite, rehogar la cebolla, el ajo y los tallos de acelga hasta que estén tiernos.",
+          "Agregar el morrón y cocinar unos minutos hasta que se ablande.",
+          "Incorporar el rojito en polvo y mezclar bien con las verduras.",
+          "Sumar la lengua, cubrir con el agua de cocción reservada y cocinar a fuego bajo 20-30 minutos hasta que el gravy tome cuerpo.",
+          "Los últimos 10 minutos agregar las hojas de acelga.",
+          "Servir sobre arroz blanco bañado con el gravy."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "arroz-con-pollo-peruano",
+    "emoji": "🍚🐔",
+    "title": "Arroz con Pollo Peruano",
+    "sections": [
+      {
+        "type": "ingredients",
+        "subtitle": "Pasta de cilantro",
+        "subtitleEmoji": "🌿",
+        "items": [
+          { "emoji": "🌿", "name": "Cilantro fresco (atado generoso, tallos incluidos)" },
+          { "emoji": "🍺", "name": "Cerveza rubia (un chorrito para licuar)" },
+          { "emoji": "🥬", "name": "Opcional: una hoja de espinaca para intensificar el verde" }
+        ]
+      },
+      {
+        "type": "ingredients",
+        "subtitle": "Arroz con pollo",
+        "subtitleEmoji": "🍚",
+        "items": [
+          { "emoji": "🐔", "name": "Pollo en trozos" },
+          { "emoji": "🍚", "name": "Arroz" },
+          { "emoji": "🫛", "name": "Arvejas" },
+          { "emoji": "🥕", "name": "Zanahoria en cubos" },
+          { "emoji": "🫑", "name": "Morrón en cubos" },
+          { "emoji": "🧅", "name": "Cebolla picada" },
+          { "emoji": "🧄", "name": "Ajo picado" },
+          { "emoji": "🍺", "name": "Cerveza rubia" },
+          { "emoji": "🥣", "name": "Caldo o agua" },
+          { "emoji": "🫒", "name": "Aceite, sal, pimienta" }
+        ]
+      },
+      {
+        "type": "steps",
+        "items": [
+          "Licuar el cilantro con un chorrito de cerveza hasta obtener una pasta homogénea. Reservar.",
+          "Dorar el pollo salpimentado en una olla con aceite. Retirar y reservar.",
+          "En la misma olla rehogar la cebolla, el ajo y el morrón hasta que estén tiernos.",
+          "Agregar la pasta de cilantro y cocinar 2-3 minutos.",
+          "Sumar la cerveza y dejar reducir unos minutos.",
+          "Volver el pollo a la olla. Agregar el arroz y cubrir con caldo o agua.",
+          "A mitad de cocción incorporar la zanahoria y las arvejas.",
+          "Cocinar hasta que el arroz absorba todo el líquido."
+        ]
+      }
+    ]
   }
 ]
