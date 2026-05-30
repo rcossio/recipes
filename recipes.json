@@ -3,17 +3,18 @@
     "id": "frijoles-valeriana",
     "emoji": "🫘",
     "title": "Frijoles con Valeriana",
+    "base": "2 personas",
     "sections": [
       {
         "type": "ingredients",
         "items": [
-          { "emoji": "🧅", "name": "Cebolla" },
-          { "emoji": "🫑", "name": "Morron" },
-          { "emoji": "🥩", "name": "Carne cortada" },
-          { "emoji": "🫘", "name": "Frejoles" },
-          { "emoji": "🍺", "name": "Cerveza" },
-          { "emoji": "🥬", "name": "Valeriana tierna" },
-          { "emoji": "🍚", "name": "Arroz" }
+          { "emoji": "🧅", "name": "1 cebolla mediana" },
+          { "emoji": "🫑", "name": "1 morrón mediano" },
+          { "emoji": "🥩", "name": "300g carne cortada" },
+          { "emoji": "🫘", "name": "200g frejoles" },
+          { "emoji": "🍺", "name": "1 botella cerveza (330ml)" },
+          { "emoji": "🥬", "name": "1 atado valeriana tierna" },
+          { "emoji": "🍚", "name": "180g arroz (1 taza)" }
         ]
       },
       {
@@ -31,6 +32,7 @@
     "id": "ensalada-cesar",
     "emoji": "🥗",
     "title": "Ensalada Cesar",
+    "base": "2 personas",
     "sections": [
       {
         "type": "ingredients",
@@ -52,10 +54,10 @@
         "subtitle": "Ensalada",
         "subtitleEmoji": "🥬",
         "items": [
-          { "name": "Lechuga (lavar y secar bien)" },
-          { "name": "Crutones (aceite, orégano y tostadas)" },
-          { "name": "Pollo" },
-          { "name": "Queso parmesano" }
+          { "name": "200g lechuga (lavar y secar bien)" },
+          { "name": "2 rebanadas de pan para crutones (aceite y orégano)" },
+          { "name": "200g pollo" },
+          { "name": "20g queso parmesano extra" }
         ]
       }
     ],
@@ -65,16 +67,17 @@
     "id": "trofie-pomodoro-sardine",
     "emoji": "🍝",
     "title": "Trofie, pomodoro e sardine",
+    "base": "2 personas",
     "sections": [
       {
         "type": "ingredients",
         "items": [
-          { "emoji": "🍝", "name": "Fideos tipo trofie liguri o fideos sin relleno" },
-          { "emoji": "🐟", "name": "Sardinas en aceite" },
-          { "emoji": "🍅", "name": "2-3 tomates por porción (redondos, cherry, o mezcla)" },
-          { "emoji": "🧅", "name": "1/2 cebolla por porción" },
-          { "emoji": "🧀", "name": "Queso tipo emmental" },
-          { "emoji": "🌿", "name": "Perejil" }
+          { "emoji": "🍝", "name": "200g fideos tipo trofie liguri o fideos sin relleno" },
+          { "emoji": "🐟", "name": "2 latas sardinas en aceite" },
+          { "emoji": "🍅", "name": "4-6 tomates (redondos, cherry, o mezcla)" },
+          { "emoji": "🧅", "name": "1 cebolla mediana" },
+          { "emoji": "🧀", "name": "60g queso tipo emmental" },
+          { "emoji": "🌿", "name": "Perejil al gusto" }
         ]
       },
       {
@@ -93,18 +96,19 @@
     "id": "risotto-durelli-calabaza-hongos",
     "emoji": "🍚",
     "title": "Risotto con durelli, calabaza y hongos",
+    "base": "2 personas",
     "sections": [
       {
         "type": "ingredients",
         "items": [
-          { "emoji": "🍚", "name": "Arroz" },
-          { "emoji": "🐔", "name": "Durelli de pollo" },
-          { "emoji": "🧅", "name": "Cebolla" },
-          { "emoji": "🎃", "name": "Calabaza en cubitos chicos (mismo volumen que el arroz, en crudo)" },
-          { "emoji": "🍄", "name": "Champignones fileteados" },
-          { "emoji": "🧈", "name": "Manteca" },
-          { "emoji": "🧀", "name": "Pecorino o queso rallado" },
-          { "emoji": "🥣", "name": "Caldo de verduras" }
+          { "emoji": "🍚", "name": "180g arroz" },
+          { "emoji": "🐔", "name": "200g durelli de pollo" },
+          { "emoji": "🧅", "name": "1 cebolla mediana" },
+          { "emoji": "🎃", "name": "180g calabaza en cubitos chicos (mismo volumen que el arroz, en crudo)" },
+          { "emoji": "🍄", "name": "150g champignones fileteados" },
+          { "emoji": "🧈", "name": "30g manteca" },
+          { "emoji": "🧀", "name": "40g pecorino o queso rallado" },
+          { "emoji": "🥣", "name": "700ml caldo de verduras" }
         ]
       },
       {
@@ -215,6 +219,7 @@
     "id": "pasta-camarones-espinaca-champinones",
     "emoji": "🍝🦐",
     "title": "Pasta con camarones, espinaca y champiñones en crema",
+    "base": "4 personas",
     "description": "Cremosa pero no pesada, con champiñones dorados y espinaca que se funde al final. Lista en ~25 minutos.",
     "sections": [
       {
@@ -256,20 +261,21 @@
     "id": "cous-cous-mediterraneo-pollo-stracchino",
     "emoji": "🥘",
     "title": "Cous cous mediterráneo con pollo y stracchino",
+    "base": "2 personas",
     "sections": [
       {
         "type": "ingredients",
         "items": [
-          { "emoji": "🌾", "name": "Cous cous integral" },
-          { "emoji": "🐔", "name": "Pollo en cubos (o cerdo: bondiola o solomillo)" },
-          { "emoji": "🥒", "name": "Calabacín en cubos" },
-          { "emoji": "🍅", "name": "Tomate cherry" },
-          { "emoji": "🧅", "name": "Cebolla morada" },
-          { "emoji": "🫘", "name": "Garbanzos cocidos" },
-          { "emoji": "🧀", "name": "Stracchino" },
-          { "emoji": "🧄", "name": "Ajo" },
-          { "emoji": "🌿", "name": "Albahaca fresca" },
-          { "emoji": "🍋", "name": "Limón (jugo y ralladura)" },
+          { "emoji": "🌾", "name": "200g cous cous integral" },
+          { "emoji": "🐔", "name": "250g pollo en cubos (o cerdo: bondiola o solomillo)" },
+          { "emoji": "🥒", "name": "1 calabacín mediano en cubos" },
+          { "emoji": "🍅", "name": "150g tomate cherry" },
+          { "emoji": "🧅", "name": "1 cebolla morada" },
+          { "emoji": "🫘", "name": "150g garbanzos cocidos" },
+          { "emoji": "🧀", "name": "80g stracchino" },
+          { "emoji": "🧄", "name": "2 dientes ajo" },
+          { "emoji": "🌿", "name": "Albahaca fresca al gusto" },
+          { "emoji": "🍋", "name": "1 limón (jugo y ralladura)" },
           { "emoji": "🫒", "name": "Aceite de oliva, sal, pimienta" }
         ]
       },
@@ -292,20 +298,21 @@
     "id": "gulash-papa-col",
     "emoji": "🥘",
     "title": "Gulash con papa y col",
+    "base": "3-4 personas",
     "sections": [
       {
         "type": "ingredients",
         "items": [
-          { "emoji": "🥩", "name": "Carne en cubos (aguja, cuadril o roast beef)" },
-          { "emoji": "🧅", "name": "Cebolla (mucha, casi igual cantidad que la carne)" },
+          { "emoji": "🥩", "name": "500g carne en cubos (aguja, cuadril o roast beef)" },
+          { "emoji": "🧅", "name": "400g cebolla en pluma (casi igual cantidad que la carne)" },
           { "emoji": "🌶️", "name": "Pimentón dulce en polvo (generoso, 2-3 cucharadas)" },
-          { "emoji": "🫑", "name": "Morrón" },
-          { "emoji": "🍅", "name": "Tomate (fresco o triturado)" },
-          { "emoji": "🧄", "name": "Ajo" },
-          { "emoji": "🥔", "name": "Papa en cubos" },
-          { "emoji": "🥬", "name": "Col blanca en tiras" },
-          { "emoji": "🌿", "name": "Comino, laurel, orégano (en lugar de mejorana)" },
-          { "emoji": "🥣", "name": "Caldo o agua" },
+          { "emoji": "🫑", "name": "1 morrón grande" },
+          { "emoji": "🍅", "name": "2 tomates medianos (o 200g triturado)" },
+          { "emoji": "🧄", "name": "3 dientes ajo" },
+          { "emoji": "🥔", "name": "3 papas medianas en cubos" },
+          { "emoji": "🥬", "name": "300g col blanca en tiras" },
+          { "emoji": "🌿", "name": "Comino, laurel, orégano al gusto" },
+          { "emoji": "🥣", "name": "600ml caldo o agua" },
           { "emoji": "🫒", "name": "Aceite, sal, pimienta" }
         ]
       },
@@ -329,16 +336,17 @@
     "id": "pizza-javi",
     "emoji": "🍕",
     "title": "Pizza Javi",
+    "base": "1 pizza (2 porciones)",
     "sections": [
       {
         "type": "ingredients",
         "items": [
-          { "emoji": "🍕", "name": "Masa de pizza" },
-          { "emoji": "🍅", "name": "Salsa de tomate" },
-          { "emoji": "🧅", "name": "Cebolla en juliana" },
-          { "emoji": "🐟", "name": "Atún en lata" },
-          { "emoji": "🥚", "name": "Huevo duro" },
-          { "emoji": "🧀", "name": "Queso mozzarella" },
+          { "emoji": "🍕", "name": "1 base de pizza mediana" },
+          { "emoji": "🍅", "name": "80g salsa de tomate" },
+          { "emoji": "🧅", "name": "1 cebolla mediana" },
+          { "emoji": "🐟", "name": "1 lata atún (160g)" },
+          { "emoji": "🥚", "name": "2 huevos" },
+          { "emoji": "🧀", "name": "200g queso mozzarella" },
           { "emoji": "🌿", "name": "Orégano, sal, aceite de oliva" }
         ]
       },
@@ -358,21 +366,22 @@
     "id": "pollo-sillao",
     "emoji": "🍗🥢",
     "title": "Pollo al Sillao",
+    "base": "2 personas",
     "sections": [
       {
         "type": "ingredients",
         "items": [
-          { "emoji": "🐔", "name": "Pollo en trozos" },
-          { "emoji": "🍄", "name": "Champiñones fileteados" },
-          { "emoji": "🥦", "name": "Brócoli en arbolitos" },
-          { "emoji": "🧄", "name": "Ajo picado" },
-          { "emoji": "🫚", "name": "Jengibre en polvo" },
-          { "emoji": "🥢", "name": "Salsa de soja" },
-          { "emoji": "🌽", "name": "Maicena" },
-          { "emoji": "🍚", "name": "Arroz blanco" },
-          { "emoji": "🌿", "name": "Cebolla de verdeo" },
+          { "emoji": "🐔", "name": "400g pollo en trozos" },
+          { "emoji": "🍄", "name": "150g champiñones fileteados" },
+          { "emoji": "🥦", "name": "200g brócoli en arbolitos" },
+          { "emoji": "🧄", "name": "2 dientes ajo picados" },
+          { "emoji": "🫚", "name": "1 cucharita jengibre en polvo" },
+          { "emoji": "🥢", "name": "3 cdas salsa de soja (45ml)" },
+          { "emoji": "🌽", "name": "1 cda maicena" },
+          { "emoji": "🍚", "name": "180g arroz blanco" },
+          { "emoji": "🌿", "name": "2 tallos cebolla de verdeo" },
           { "emoji": "🫒", "name": "Aceite neutro, sal, pimienta" },
-          { "emoji": "🌾", "name": "Semillas de sésamo" }
+          { "emoji": "🌾", "name": "1 cda semillas de sésamo" }
         ]
       },
       {
@@ -393,17 +402,18 @@
     "id": "lengua-rojito",
     "emoji": "🐮🌶️",
     "title": "Lengua con Rojito",
+    "base": "1 lengua (4-5 personas)",
     "sections": [
       {
         "type": "ingredients",
         "items": [
-          { "emoji": "🐮", "name": "Lengua de res" },
-          { "emoji": "🫑", "name": "Morrón en cubos (generoso, casi tanto como la carne)" },
-          { "emoji": "🧅", "name": "Cebolla en cubos" },
-          { "emoji": "🥬", "name": "Acelga (tallos en trozos, hojas reservadas)" },
-          { "emoji": "🌶️", "name": "Rojito en polvo" },
-          { "emoji": "🧄", "name": "Ajo picado" },
-          { "emoji": "🍚", "name": "Arroz blanco" },
+          { "emoji": "🐮", "name": "1 lengua de res entera (~1kg)" },
+          { "emoji": "🫑", "name": "800g morrón en cubos (4 medianos, casi tanto como la carne)" },
+          { "emoji": "🧅", "name": "2 cebollas medianas" },
+          { "emoji": "🥬", "name": "1 atado acelga (tallos en trozos, hojas reservadas)" },
+          { "emoji": "🌶️", "name": "2 cdas rojito en polvo" },
+          { "emoji": "🧄", "name": "3 dientes ajo picados" },
+          { "emoji": "🍚", "name": "100g arroz por persona al acompañar" },
           { "emoji": "🫒", "name": "Aceite, sal, pimienta" }
         ]
       },
@@ -425,15 +435,16 @@
     "id": "arroz-con-pollo-peruano",
     "emoji": "🍚🐔",
     "title": "Arroz con Pollo Peruano",
+    "base": "4 personas",
     "sections": [
       {
         "type": "ingredients",
         "subtitle": "Pasta de cilantro",
         "subtitleEmoji": "🌿",
         "items": [
-          { "emoji": "🌿", "name": "Cilantro fresco (atado generoso, tallos incluidos)" },
-          { "emoji": "🍺", "name": "Cerveza rubia (un chorrito para licuar)" },
-          { "emoji": "🥬", "name": "Opcional: una hoja de espinaca para intensificar el verde" }
+          { "emoji": "🌿", "name": "1 atado cilantro fresco (tallos incluidos)" },
+          { "emoji": "🍺", "name": "100ml cerveza rubia (para licuar)" },
+          { "emoji": "🥬", "name": "Opcional: 1 hoja de espinaca para intensificar el verde" }
         ]
       },
       {
@@ -441,15 +452,15 @@
         "subtitle": "Arroz con pollo",
         "subtitleEmoji": "🍚",
         "items": [
-          { "emoji": "🐔", "name": "Pollo en trozos" },
-          { "emoji": "🍚", "name": "Arroz" },
-          { "emoji": "🫛", "name": "Arvejas" },
-          { "emoji": "🥕", "name": "Zanahoria en cubos" },
-          { "emoji": "🫑", "name": "Morrón en cubos" },
-          { "emoji": "🧅", "name": "Cebolla picada" },
-          { "emoji": "🧄", "name": "Ajo picado" },
-          { "emoji": "🍺", "name": "Cerveza rubia" },
-          { "emoji": "🥣", "name": "Caldo o agua" },
+          { "emoji": "🐔", "name": "800g pollo en trozos" },
+          { "emoji": "🍚", "name": "400g arroz" },
+          { "emoji": "🫛", "name": "150g arvejas" },
+          { "emoji": "🥕", "name": "2 zanahorias medianas en cubos" },
+          { "emoji": "🫑", "name": "1 morrón grande en cubos" },
+          { "emoji": "🧅", "name": "1 cebolla grande picada" },
+          { "emoji": "🧄", "name": "3 dientes ajo picados" },
+          { "emoji": "🍺", "name": "200ml cerveza rubia" },
+          { "emoji": "🥣", "name": "600ml caldo o agua" },
           { "emoji": "🫒", "name": "Aceite, sal, pimienta" }
         ]
       },
