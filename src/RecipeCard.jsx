@@ -59,7 +59,7 @@ export default function RecipeCard({ recipe }) {
           <span className="text-3xl" role="img" aria-hidden="true">
             {recipe.emoji}
           </span>
-          <div>
+          <div className="flex-1">
             <h2 className="text-lg font-semibold text-gray-900 leading-tight">
               {recipe.title}
             </h2>
@@ -67,6 +67,11 @@ export default function RecipeCard({ recipe }) {
               <p className="text-xs text-gray-500 mt-0.5">{recipe.subtitle}</p>
             )}
           </div>
+          {recipe.tag && (
+            <span className="text-xs font-semibold bg-amber-100 text-amber-700 border border-amber-300 px-2 py-0.5 rounded-full whitespace-nowrap">
+              ⚠️ {recipe.tag}
+            </span>
+          )}
         </div>
         {recipe.description && (
           <p className="text-sm text-gray-500 mt-2">{recipe.description}</p>

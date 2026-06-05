@@ -478,5 +478,55 @@
         ]
       }
     ]
+  },
+  {
+    "id": "cerdo-barbeque-batata",
+    "emoji": "🥩",
+    "title": "Cerdo al Barbeque con Batata y Ensalada",
+    "tag": "No probada",
+    "base": "2 personas",
+    "sections": [
+      {
+        "type": "ingredients",
+        "subtitle": "Salsa BBQ",
+        "subtitleEmoji": "🍯",
+        "items": [
+          { "emoji": "🍅", "name": "3 cucharadas ketchup (o pasta de tomate)" },
+          { "emoji": "🫙", "name": "2 cucharadas vinagre" },
+          { "emoji": "🟡", "name": "1 cucharada mostaza" },
+          { "emoji": "🍯", "name": "1 cucharadita miel" },
+          { "emoji": "🎋", "name": "Opcional: un chorrito de caldo de caña" }
+        ]
+      },
+      {
+        "type": "ingredients",
+        "subtitle": "Costillitas y batata",
+        "subtitleEmoji": "🥩",
+        "items": [
+          { "emoji": "🥩", "name": "600g costillitas de cerdo (con hueso)" },
+          { "emoji": "🍠", "name": "500g batata doce" }
+        ]
+      },
+      {
+        "type": "ingredients",
+        "subtitle": "Ensalada",
+        "subtitleEmoji": "🥗",
+        "items": [
+          { "emoji": "🥬", "name": "240g hojas verdes mixtas (lechuga, rúcula, espinaca)" },
+          { "emoji": "🫒", "name": "Aceite de oliva, limón y sal" }
+        ]
+      },
+      {
+        "type": "steps",
+        "items": [
+          "Mezclar todos los ingredientes de la salsa BBQ. Reservar.",
+          "Marinar las costillitas con la salsa al menos 30 minutos (idealmente varias horas o de un día para el otro).",
+          "Cocinar la batata entera o en rodajas gruesas a 200°C por 40-50 minutos hasta que esté tierna.",
+          "Cocinar las costillitas a 180°C por 1.5 a 2 horas, bañándolas con salsa cada 30 minutos.",
+          "Aderezar la ensalada con aceite de oliva, limón y sal en el momento de servir."
+        ]
+      }
+    ],
+    "serving": "El plato es principalmente batata, luego ensalada, y las costillitas como el componente más pequeño pero más intenso."
   }
 ]
