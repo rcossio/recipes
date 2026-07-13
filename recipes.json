@@ -528,5 +528,103 @@
       }
     ],
     "serving": "El plato es principalmente batata, luego ensalada, y las costillitas como el componente más pequeño pero más intenso."
+  },
+  {
+    "id": "hamburguesa-carne-garbanzos",
+    "emoji": "🍔",
+    "title": "Hamburguesa de carne y garbanzos",
+    "base": "4 porciones",
+    "sections": [
+      {
+        "type": "ingredients",
+        "items": [
+          { "emoji": "🥩", "name": "500g carne picada" },
+          { "emoji": "🫘", "name": "200g garbanzos cocidos y pisados" },
+          { "emoji": "🧅", "name": "1 cebolla chica, picada" },
+          { "emoji": "🧄", "name": "1 diente de ajo, picado" },
+          { "emoji": "🥚", "name": "1 huevo" },
+          { "emoji": "🌾", "name": "3 cucharadas de harina de trigo sarraceno" },
+          { "emoji": "🥣", "name": "1 cucharadita de caldito de verduras en polvo" },
+          { "emoji": "🧂", "name": "1/2 cucharadita de sal" },
+          { "emoji": "🌶️", "name": "1/4 cucharadita de pimienta" },
+          { "emoji": "🌿", "name": "Opcional: 1 cucharadita de comino y 2 cucharadas de perejil picado" }
+        ]
+      },
+      {
+        "type": "steps",
+        "items": [
+          "Rehogar la cebolla y el ajo hasta que estén transparentes. Dejar entibiar.",
+          "En un bol, mezclar la carne picada, los garbanzos, la cebolla y ajo rehogados, el caldito en polvo, la sal y la pimienta. Si se usan comino y perejil, sumarlos acá.",
+          "Incorporar el huevo y mezclar bien hasta integrar.",
+          "Sumar la harina de trigo sarraceno de a poco, mezclando, hasta que la masa se despegue de la mano.",
+          "Formar 4 hamburguesas y sellarlas a fuego fuerte, 3-4 min por lado, hasta dorar."
+        ]
+      },
+      {
+        "type": "ingredients",
+        "subtitle": "Opcionales para armar (formato hamburguesa o plato)",
+        "subtitleEmoji": "🧩",
+        "items": [
+          { "emoji": "🧀", "name": "Queso — en fetas, al armar" },
+          { "emoji": "🥬", "name": "Lechuga — fresca, al armar" },
+          { "emoji": "🥚", "name": "Huevo — frito, poché o duro" },
+          { "emoji": "🍅", "name": "Tomate — en rodajas, al armar" },
+          { "emoji": "🥔", "name": "Papas — al horno, en gajos o rodajas" },
+          { "emoji": "🥑", "name": "Palta — en láminas o pisada, al armar" },
+          { "emoji": "🍠", "name": "Batatas — al horno, en gajos o rodajas" },
+          { "emoji": "🧅", "name": "Cebolla caramelizada — en pluma, fuego bajo y lento hasta dorada" },
+          { "emoji": "🫑", "name": "Morrones asados — al horno o a la llama, pelados y en tiras" },
+          { "emoji": "🍄", "name": "Champiñones salteados — fileteados, fuego fuerte hasta evaporar el agua" },
+          { "emoji": "🍆", "name": "Berenjena grillada — en rodajas, a la plancha hasta marcar" },
+          { "emoji": "🥫", "name": "Salsas varias — a elección" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "chow-mein",
+    "emoji": "🍜",
+    "title": "Chow Mein",
+    "base": "2 personas",
+    "sections": [
+      {
+        "type": "ingredients",
+        "subtitle": "Salteado",
+        "subtitleEmoji": "🥡",
+        "items": [
+          { "emoji": "🍜", "name": "Tallarines" },
+          { "emoji": "🐔", "name": "Pollo, cerdo o carne en tiras" },
+          { "emoji": "🥒", "name": "Zucchini" },
+          { "emoji": "🥕", "name": "Zanahoria" },
+          { "emoji": "🧅", "name": "Cebolla" },
+          { "emoji": "🌿", "name": "Cebolla de verdeo" },
+          { "emoji": "🫑", "name": "Morrón" },
+          { "emoji": "🧄", "name": "Ajo" },
+          { "emoji": "🍄", "name": "Hongos" }
+        ]
+      },
+      {
+        "type": "ingredients",
+        "subtitle": "Salsa",
+        "subtitleEmoji": "🥣",
+        "items": [
+          { "emoji": "🥢", "name": "Salsa de soja" },
+          { "emoji": "🦪", "name": "Salsa de ostión" },
+          { "emoji": "🫚", "name": "Jengibre" },
+          { "emoji": "🍯", "name": "Miel" },
+          { "emoji": "💧", "name": "Agua" },
+          { "emoji": "🌽", "name": "Agua con almidón (maicena disuelta)" }
+        ]
+      },
+      {
+        "type": "steps",
+        "items": [
+          "Freír el zucchini, la zanahoria, la cebolla, la cebolla de verdeo, la proteína (pollo, cerdo o carne), el morrón, el ajo y los hongos, regulando cuándo se pone cada uno para no sobrecocinar nada.",
+          "En paralelo, cocinar los tallarines y parar la cocción con agua fría.",
+          "Cuando esté todo, agregar a lo frito la salsa de soja, la salsa de ostión, el jengibre, la miel, agua y agua con almidón.",
+          "Mover los fideos a lo frito y mezclar para que la salsa llegue a todos lados."
+        ]
+      }
+    ]
   }
 ]
