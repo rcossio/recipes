@@ -131,7 +131,8 @@
     "id": "causa-pulpo",
     "emoji": "🐙🥔",
     "title": "Causa de Pulpo",
-    "subtitle": "Plato de festejo - 3 personas",
+    "base": "3 personas",
+    "subtitle": "Plato de festejo",
     "sections": [
       {
         "type": "ingredients",
