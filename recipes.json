@@ -626,5 +626,264 @@
         ]
       }
     ]
+  },
+  {
+    "id": "pollo-arrebosado",
+    "emoji": "🍗",
+    "title": "Pollo Arrebosado",
+    "base": "4 personas",
+    "sections": [
+      {
+        "type": "ingredients",
+        "subtitle": "Para el rebozado",
+        "subtitleEmoji": "🥣",
+        "items": [
+          { "emoji": "🫙", "name": "3 cucharadas de mayonesa" },
+          { "emoji": "🥛", "name": "3 cucharadas de yogur griego" },
+          { "emoji": "🟡", "name": "1 a 2 cucharaditas de mostaza" },
+          { "emoji": "🧄", "name": "2 dientes de ajo" },
+          { "emoji": "🍞", "name": "Pan rallado, cantidad necesaria" },
+          { "emoji": "🧂", "name": "Sal y pimienta" }
+        ]
+      },
+      {
+        "type": "ingredients",
+        "subtitle": "Para la bandeja",
+        "subtitleEmoji": "🍗",
+        "items": [
+          { "emoji": "🍗", "name": "4 presas de pollo (o 3 pechugas)" },
+          { "emoji": "🥦", "name": "1/2 coliflor" },
+          { "emoji": "🥕", "name": "2 zanahorias" },
+          { "emoji": "🧅", "name": "1 cebolla" },
+          { "emoji": "🥛", "name": "Un chorrito de leche" },
+          { "emoji": "🫒", "name": "Aceite de oliva" }
+        ]
+      },
+      {
+        "type": "ingredients",
+        "subtitle": "Para el arroz",
+        "subtitleEmoji": "🍚",
+        "items": [
+          { "emoji": "🍚", "name": "1 taza de arroz" },
+          { "emoji": "🫛", "name": "1 taza de arvejas" }
+        ]
+      },
+      {
+        "type": "steps",
+        "items": [
+          "Precalentá el horno a 200 °C. Mientras toma temperatura, picá el ajo y mezclalo en un bol con la mayonesa, el yogur griego, la mostaza, sal y pimienta hasta tener una crema pareja.",
+          "Cubrí cada presa de pollo con la crema por todos lados, acomodalas en una fuente y espolvoreá pan rallado por encima hasta taparlas.",
+          "Cortá la coliflor en floretes, la zanahoria en bastones y la cebolla en gajos, repartilas alrededor del pollo, rociá las verduras con aceite y sal, y echá un chorrito de leche en el fondo de la fuente, sin mojar el pan.",
+          "Llevá la fuente al horno hasta que la costra esté dorada y firme, el pollo cocido por dentro y las verduras tiernas y doradas en los bordes; si querés más color, gratiná los últimos minutos.",
+          "Mientras el pollo se hornea, herví el arroz con las arvejas y sal hasta que el agua se consuma y el grano quede tierno."
+        ]
+      }
+    ],
+    "serving": "El pollo con las verduras de la misma bandeja y el arroz con arvejas al lado."
+  },
+  {
+    "id": "berenjenas-parmesana-carne",
+    "emoji": "🍆",
+    "title": "Berenjenas a la Parmesana con Carne",
+    "base": "4 personas",
+    "sections": [
+      {
+        "type": "ingredients",
+        "items": [
+          { "emoji": "🍆", "name": "3 berenjenas medianas" },
+          { "emoji": "🥩", "name": "300 g de carne molida" },
+          { "emoji": "🧅", "name": "1 cebolla" },
+          { "emoji": "🧄", "name": "2 dientes de ajo" },
+          { "emoji": "🍅", "name": "700 g de puré de tomate" },
+          { "emoji": "🧀", "name": "300 g de muzzarella" },
+          { "emoji": "🧀", "name": "80 g de queso rallado" },
+          { "emoji": "🫒", "name": "Aceite de oliva" },
+          { "emoji": "🧂", "name": "Sal, pimienta y orégano" },
+          { "emoji": "🍬", "name": "Una pizca de azúcar" }
+        ]
+      },
+      {
+        "type": "steps",
+        "items": [
+          "Cortá las berenjenas en rodajas de un centímetro, salalas y dejalas en un colador para que larguen el agua y la amargura.",
+          "Mientras las berenjenas transpiran, precalentá el horno a 200 °C y arrancá la salsa: rehogá en una olla la cebolla y el ajo picados con un poco de aceite hasta que estén transparentes, sumá la carne y dorala deshaciendo los grumos hasta que pierda el color rosado.",
+          "Agregá el puré de tomate, sal, pimienta, orégano y una pizca de azúcar, y dejá la salsa a fuego bajo hasta que espese.",
+          "Secá bien las rodajas de berenjena, pincelalas con aceite, acomodalas en una placa y asalas en el horno hasta que estén tiernas y doradas, dándolas vuelta a mitad de camino.",
+          "En una fuente, alterná capas de salsa, berenjenas, salsa, muzzarella en trozos y un poco de rallado, y repetí hasta terminar con salsa y todo el rallado arriba.",
+          "Volvé la fuente al horno hasta que la muzzarella se derrita y la superficie quede dorada y burbujeante."
+        ]
+      }
+    ],
+    "serving": "Sola o con una ensalada verde al lado."
+  },
+  {
+    "id": "tallarines-salsa-roja-albondigas",
+    "emoji": "🍝",
+    "title": "Tallarines con Salsa Roja y Albóndigas",
+    "base": "4 personas",
+    "sections": [
+      {
+        "type": "ingredients",
+        "subtitle": "Para la salsa",
+        "subtitleEmoji": "🍅",
+        "items": [
+          { "emoji": "🍅", "name": "700 g de puré de tomate" },
+          { "emoji": "🧅", "name": "1 cebolla" },
+          { "emoji": "🥕", "name": "2 zanahorias" },
+          { "emoji": "🫑", "name": "1 morrón" },
+          { "emoji": "🍄", "name": "200 g de hongos" },
+          { "emoji": "🧄", "name": "3 dientes de ajo" },
+          { "emoji": "🫘", "name": "120 g de lentejas rojas (opcional)" },
+          { "emoji": "🫒", "name": "Aceite de oliva" },
+          { "emoji": "🧂", "name": "Sal, pimienta y orégano" }
+        ]
+      },
+      {
+        "type": "ingredients",
+        "subtitle": "Para las albóndigas",
+        "subtitleEmoji": "🧆",
+        "items": [
+          { "emoji": "🥩", "name": "500 g de carne molida" },
+          { "emoji": "🌾", "name": "40 g de avena" },
+          { "emoji": "🥛", "name": "60 ml de leche" },
+          { "emoji": "🥚", "name": "1 huevo" },
+          { "emoji": "🥕", "name": "1 zanahoria" },
+          { "emoji": "🧂", "name": "Sal y pimienta" }
+        ]
+      },
+      {
+        "type": "ingredients",
+        "subtitle": "Para la pasta",
+        "subtitleEmoji": "🍝",
+        "items": [
+          { "emoji": "🍝", "name": "400 g de tallarines" }
+        ]
+      },
+      {
+        "type": "steps",
+        "items": [
+          "Asá el morrón entero a fuego fuerte o directo a la llama hasta que la piel quede negra, metelo tapado en un bol unos minutos y pelalo.",
+          "Mientras el morrón se asa y suda, remojá la avena en la leche y armá las albóndigas: mezclá la carne con una zanahoria rallada, el huevo, la avena remojada, sal y pimienta, amasá y formá las bolitas.",
+          "En una olla con aceite, rehogá la cebolla, el ajo y las otras dos zanahorias picadas junto con los hongos fileteados hasta que todo esté tierno y sin agua.",
+          "Sumá el puré de tomate, el morrón pelado, las lentejas rojas, sal, pimienta y orégano, y cociná a fuego bajo hasta que las lentejas se deshagan y la salsa espese.",
+          "Triturá la salsa dentro de la misma olla con la minipimer hasta que quede lisa.",
+          "Dorá las albóndigas en una sartén con un poco de aceite hasta sellarlas por fuera, pasalas a la olla de la salsa y cocinalas ahí a fuego bajo hasta que estén cocidas por dentro y hayan tomado sabor.",
+          "Mientras las albóndigas terminan en la salsa, herví los tallarines en agua con sal hasta que estén al dente."
+        ]
+      }
+    ],
+    "serving": "Los tallarines con la salsa y las albóndigas encima."
+  },
+  {
+    "id": "tarta-zucchini-queso",
+    "emoji": "🥧",
+    "title": "Tarta de Zucchini y Queso",
+    "base": "6 personas",
+    "sections": [
+      {
+        "type": "ingredients",
+        "items": [
+          { "emoji": "🫓", "name": "2 tapas de masa para tarta" },
+          { "emoji": "🥒", "name": "600 g de zucchini" },
+          { "emoji": "🧅", "name": "1 cebolla" },
+          { "emoji": "🥚", "name": "3 huevos" },
+          { "emoji": "🧀", "name": "200 g de queso cremoso o muzzarella" },
+          { "emoji": "🧀", "name": "50 g de queso rallado" },
+          { "emoji": "🫒", "name": "Aceite de oliva" },
+          { "emoji": "🧂", "name": "Sal, pimienta y nuez moscada" }
+        ]
+      },
+      {
+        "type": "steps",
+        "items": [
+          "Rallá o cortá en rodajas finas el zucchini, salalo en un colador y dejalo largar agua; después apretalo bien con las manos o un paño hasta escurrirlo.",
+          "Mientras el zucchini larga agua, precalentá el horno a 190 °C y rehogá la cebolla picada en una sartén con aceite hasta que esté transparente.",
+          "Sumá el zucchini escurrido a la sartén y cocinalo hasta que termine de perder el agua; retiralo del fuego para que corte el calor fuerte.",
+          "Mientras el salteado se entibia, batí los huevos en un bol con el queso cremoso en cubos, el rallado, sal, pimienta y nuez moscada, e incorporá el salteado.",
+          "Forrá un molde con una tapa de masa, pinchala con un tenedor, volcá el relleno y tapá con la otra tapa cerrando los bordes.",
+          "Horneá hasta que la masa esté dorada y el relleno cuajado, cuando al pincharlo con un cuchillo salga limpio."
+        ]
+      }
+    ],
+    "serving": "Tibia o fría, con una ensalada al lado."
+  },
+  {
+    "id": "stroganoff-pollo",
+    "emoji": "🍚",
+    "title": "Stroganoff de Pollo",
+    "base": "4 personas",
+    "sections": [
+      {
+        "type": "ingredients",
+        "subtitle": "Para el stroganoff",
+        "subtitleEmoji": "🍄",
+        "items": [
+          { "emoji": "🍗", "name": "600 g de pechuga de pollo en cubos" },
+          { "emoji": "🍄", "name": "400 g de hongos" },
+          { "emoji": "🧅", "name": "1 cebolla" },
+          { "emoji": "🧄", "name": "2 dientes de ajo" },
+          { "emoji": "🍅", "name": "200 g de puré de tomate" },
+          { "emoji": "🟡", "name": "1 cucharada de mostaza" },
+          { "emoji": "🥛", "name": "200 ml de crema de leche" },
+          { "emoji": "🧈", "name": "Aceite o manteca" },
+          { "emoji": "🧂", "name": "Sal y pimienta" }
+        ]
+      },
+      {
+        "type": "ingredients",
+        "subtitle": "Para acompañar",
+        "subtitleEmoji": "🍚",
+        "items": [
+          { "emoji": "🍚", "name": "1 taza de arroz" },
+          { "emoji": "🫛", "name": "3/4 taza de arvejas" },
+          { "emoji": "🍟", "name": "Batata palha, para servir" }
+        ]
+      },
+      {
+        "type": "steps",
+        "items": [
+          "Poné a hervir el arroz con las arvejas y sal hasta que el agua se consuma y el grano esté tierno.",
+          "Mientras el arroz se cocina, salpimentá el pollo en cubos y doralo en una sartén bien caliente con un poco de aceite hasta que tome color por fuera; retiralo y reservalo.",
+          "En la misma sartén, rehogá la cebolla y el ajo picados con los hongos fileteados hasta que pierdan el agua y se doren.",
+          "Sumá el puré de tomate y la mostaza, cociná un par de minutos y volvé el pollo con sus jugos.",
+          "Bajá el fuego, sumá la crema y cociná suave, sin que hierva fuerte, hasta que el pollo esté cocido y la salsa quede cremosa."
+        ]
+      }
+    ],
+    "serving": "Sobre el arroz con arvejas y con la batata palha esparcida por encima."
+  },
+  {
+    "id": "pato-lentejas-vino",
+    "emoji": "🦆",
+    "title": "Pato con Lentejas al Vino, Papas en su Grasa y Ensalada de Tomate",
+    "base": "2 personas",
+    "sections": [
+      {
+        "type": "ingredients",
+        "items": [
+          { "emoji": "🦆", "name": "1 pechuga de pato con piel (~470 g)" },
+          { "emoji": "🥔", "name": "500 g de papas en cubos" },
+          { "emoji": "🫘", "name": "240 g de lentejas cocidas y escurridas" },
+          { "emoji": "🧅", "name": "1 cebolla" },
+          { "emoji": "🥕", "name": "1 zanahoria" },
+          { "emoji": "🍷", "name": "150 ml de vino tinto" },
+          { "emoji": "🍯", "name": "1 cucharadita de miel" },
+          { "emoji": "🍅", "name": "2 tomates" },
+          { "emoji": "🫒", "name": "Aceite de oliva" },
+          { "emoji": "🧂", "name": "Sal y pimienta negra" }
+        ]
+      },
+      {
+        "type": "steps",
+        "items": [
+          "Poné las papas a hervir en agua con sal, 8 minutos. Mientras hierven, cortá la cebolla y la zanahoria y hacelas en una sartén con aceite de oliva hasta que la cebolla esté transparente y la zanahoria tierna. Retiralas de la sartén.",
+          "Cortá la piel de la pechuga en rombos, sin llegar a la carne, y salpimentala. Ponela piel abajo en la sartén y cocinala hasta que la piel esté dorada y se haya escurrido la grasa. Dala vuelta y dorala también del lado de la carne. Retirala y tapala.",
+          "En la grasa que soltó el pato, echá las papas ya hervidas y escurridas. Freílas hasta que estén doradas por todos lados. Retiralas y salalas.",
+          "Volvé a poner la cebolla y la zanahoria en la sartén, agregá las lentejas, el vino tinto y la miel. Dejá reducir hasta que el líquido espese y las lentejas lo hayan absorbido. Mantené el pato aparte para que no se mezcle con el fondo.",
+          "Cortá los tomates y aliñalos con aceite de oliva y sal. Mejor si están fríos: le dan frescura a la preparación.",
+          "Serví el fondo de lentejas en la base del plato y la pechuga fileteada encima. Las papas al costado, y la ensalada de tomate aparte."
+        ]
+      }
+    ]
   }
 ]
