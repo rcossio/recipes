@@ -886,5 +886,47 @@
         ]
       }
     ]
+  },
+  {
+    "id": "ensalada-augusto",
+    "emoji": "🥗",
+    "title": "Ensalada Augusto",
+    "base": "2 personas",
+    "sections": [
+      {
+        "type": "ingredients",
+        "items": [
+          { "emoji": "🥬", "name": "200 g de lechuga", "g": 200, "n": [17, 1.5, 3, 0.2, 1.5] },
+          { "emoji": "🍅", "name": "2 tomates", "g": 240, "n": [18, 0.9, 3.9, 0.2, 1.2] },
+          { "emoji": "🥚", "name": "2 huevos", "g": 100, "n": [143, 12.6, 0.7, 9.5, 0] },
+          { "emoji": "🌱", "name": "2 cdas de semillas de chía", "g": 24, "n": [486, 17, 42, 31, 34] },
+          { "emoji": "🥩", "name": "300 g de cerdo en tiras (solomillo o bondiola)", "g": 300, "n": [180, 20, 0, 11, 0] }
+        ]
+      },
+      {
+        "type": "ingredients",
+        "subtitle": "Salsa Augusto",
+        "subtitleEmoji": "🥣",
+        "items": [
+          { "emoji": "🧀", "name": "3 cucharadas de queso crema", "g": 45, "n": [342, 6, 4, 34, 0] },
+          { "emoji": "🟡", "name": "1 cucharadita de mostaza", "g": 5, "n": [66, 4, 5, 3.3, 3.3] },
+          { "emoji": "🍶", "name": "1 cucharada de vinagre", "g": 15, "n": [20, 0, 0.6, 0, 0] },
+          { "emoji": "🥚", "name": "1 yema de huevo", "g": 17, "n": [322, 16, 3.6, 27, 0] },
+          { "emoji": "🍯", "name": "1 cucharadita de miel", "g": 7, "n": [304, 0.3, 82, 0, 0.2] },
+          { "emoji": "🧂", "name": "Sal y pimienta", "g": 1, "n": [0, 0, 0, 0, 0] },
+          { "emoji": "🥛", "name": "Un chorrito de leche", "g": 30, "n": [62, 3.2, 4.8, 3.3, 0] }
+        ]
+      },
+      {
+        "type": "steps",
+        "items": [
+          "Poné los huevos en un cacito con agua que los cubra y una pizca de sal, llevá a hervor y contá 10 minutos; mientras tanto seguí con el resto.",
+          "En una sartén con un hilo de aceite, sellá el cerdo en tiras a fuego fuerte hasta que esté dorado por fuera y sin jugo rosado al cortar; apagá y dejalo ahí.",
+          "En la misma ensaladera donde vas a servir, batí el queso crema con la mostaza, el vinagre, la yema, la miel, la sal y la pimienta, y sumá la leche de a chorritos hasta que quede una crema que cae de la cuchara sin cortarse.",
+          "Pasá los huevos a agua fría, pelalos y cortalos en cuartos; escurrí el cerdo y cortalo más fino si quedó grande.",
+          "Sobre la salsa, echá la lechuga cortada y el tomate en gajos, encima los huevos y el cerdo, espolvoreá la chía y mezclá desde el fondo hasta que la salsa cubra todo."
+        ]
+      }
+    ]
   }
 ]
