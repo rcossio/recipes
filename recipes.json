@@ -8,13 +8,13 @@
       {
         "type": "ingredients",
         "items": [
-          { "emoji": "🧅", "name": "1 cebolla mediana" },
-          { "emoji": "🫑", "name": "1 morrón mediano" },
-          { "emoji": "🥩", "name": "300g carne cortada" },
-          { "emoji": "🫘", "name": "200g frejoles" },
-          { "emoji": "🍺", "name": "1 botella cerveza (330ml)" },
-          { "emoji": "🥬", "name": "1 atado valeriana tierna" },
-          { "emoji": "🍚", "name": "180g arroz (1 taza)" }
+          { "emoji": "🧅", "name": "1 cebolla mediana", "g": 110, "n": [40, 1.1, 9.3, 0.1, 1.7] },
+          { "emoji": "🫑", "name": "1 morrón mediano", "g": 120, "n": [31, 1, 6, 0.3, 2.1] },
+          { "emoji": "🥩", "name": "300g carne cortada", "g": 300, "n": [182, 21, 0, 10, 0] },
+          { "emoji": "🫘", "name": "200g frejoles", "g": 200, "n": [127, 8.7, 22.8, 0.5, 6.4] },
+          { "emoji": "🍺", "name": "1 botella cerveza (330ml)", "g": 330, "n": [43, 0.5, 3.6, 0, 0] },
+          { "emoji": "🥬", "name": "1 atado valeriana tierna", "g": 100, "n": [21, 2, 3.6, 0.4, 1.8] },
+          { "emoji": "🍚", "name": "180g arroz (1 taza)", "g": 180, "n": [360, 6.6, 79, 0.6, 1.3] }
         ]
       },
       {
@@ -39,14 +39,14 @@
         "subtitle": "Salsa",
         "subtitleEmoji": "🥣",
         "items": [
-          { "name": "120gr yogurt" },
-          { "name": "1/4 cucharita de aceto balsámico" },
-          { "name": "1/4 cucharita de salsa de soja" },
-          { "name": "1 cucharita de mostaza" },
-          { "name": "1/2 dientecito de ajo" },
-          { "name": "1 anchoa en su aceite o sardinas" },
-          { "name": "30gr de queso parmesano" },
-          { "name": "Pizca de pimienta" }
+          { "name": "120gr yogurt", "g": 120, "n": [61, 3.5, 4.7, 3.3, 0] },
+          { "name": "1/4 cucharita de aceto balsámico", "g": 1, "n": [88, 0.5, 17, 0, 0] },
+          { "name": "1/4 cucharita de salsa de soja", "g": 1, "n": [53, 8, 4.9, 0.6, 0.8] },
+          { "name": "1 cucharita de mostaza", "g": 5, "n": [66, 4, 5, 3.3, 3.3] },
+          { "name": "1/2 dientecito de ajo", "g": 2, "n": [149, 6.4, 33, 0.5, 2.1] },
+          { "name": "1 anchoa en su aceite o sardinas", "g": 4, "n": [210, 29, 0, 10, 0] },
+          { "name": "30gr de queso parmesano", "g": 30, "n": [392, 36, 3.2, 26, 0] },
+          { "name": "Pizca de pimienta", "g": 1, "n": [0, 0, 0, 0, 0] }
         ]
       },
       {
@@ -54,10 +54,10 @@
         "subtitle": "Ensalada",
         "subtitleEmoji": "🥬",
         "items": [
-          { "name": "200g lechuga (lavar y secar bien)" },
-          { "name": "2 rebanadas de pan para crutones (aceite y orégano)" },
-          { "name": "200g pollo" },
-          { "name": "20g queso parmesano extra" }
+          { "name": "200g lechuga (lavar y secar bien)", "g": 200, "n": [17, 1.5, 3, 0.2, 1.5] },
+          { "name": "2 rebanadas de pan para crutones (aceite y orégano)", "g": 60, "n": [265, 9, 49, 3.2, 2.7] },
+          { "name": "200g pollo", "g": 200, "n": [120, 22.5, 0, 2.6, 0] },
+          { "name": "20g queso parmesano extra", "g": 20, "n": [392, 36, 3.2, 26, 0] }
         ]
       }
     ],
@@ -72,12 +72,12 @@
       {
         "type": "ingredients",
         "items": [
-          { "emoji": "🍝", "name": "200g fideos tipo trofie liguri o fideos sin relleno" },
-          { "emoji": "🐟", "name": "2 latas sardinas en aceite" },
-          { "emoji": "🍅", "name": "4-6 tomates (redondos, cherry, o mezcla)" },
-          { "emoji": "🧅", "name": "1 cebolla mediana" },
-          { "emoji": "🧀", "name": "60g queso tipo emmental" },
-          { "emoji": "🌿", "name": "Perejil al gusto" }
+          { "emoji": "🍝", "name": "200g fideos tipo trofie liguri o fideos sin relleno", "g": 200, "n": [371, 13, 75, 1.5, 3.2] },
+          { "emoji": "🐟", "name": "2 latas sardinas en aceite", "g": 200, "n": [208, 25, 0, 11, 0] },
+          { "emoji": "🍅", "name": "4-6 tomates (redondos, cherry, o mezcla)", "g": 600, "n": [18, 0.9, 3.9, 0.2, 1.2] },
+          { "emoji": "🧅", "name": "1 cebolla mediana", "g": 110, "n": [40, 1.1, 9.3, 0.1, 1.7] },
+          { "emoji": "🧀", "name": "60g queso tipo emmental", "g": 60, "n": [380, 28, 1, 30, 0] },
+          { "emoji": "🌿", "name": "Perejil al gusto", "g": 3, "n": [30, 3, 5, 0.6, 3] }
         ]
       },
       {
@@ -101,14 +101,14 @@
       {
         "type": "ingredients",
         "items": [
-          { "emoji": "🍚", "name": "180g arroz" },
-          { "emoji": "🐔", "name": "200g durelli de pollo" },
-          { "emoji": "🧅", "name": "1 cebolla mediana" },
-          { "emoji": "🎃", "name": "180g calabaza en cubitos chicos (mismo volumen que el arroz, en crudo)" },
-          { "emoji": "🍄", "name": "150g champignones fileteados" },
-          { "emoji": "🧈", "name": "30g manteca" },
-          { "emoji": "🧀", "name": "40g pecorino o queso rallado" },
-          { "emoji": "🥣", "name": "700ml caldo de verduras" }
+          { "emoji": "🍚", "name": "180g arroz", "g": 180, "n": [360, 6.6, 79, 0.6, 1.3] },
+          { "emoji": "🐔", "name": "200g durelli de pollo", "g": 200, "n": [94, 17, 0, 2, 0] },
+          { "emoji": "🧅", "name": "1 cebolla mediana", "g": 110, "n": [40, 1.1, 9.3, 0.1, 1.7] },
+          { "emoji": "🎃", "name": "180g calabaza en cubitos chicos (mismo volumen que el arroz, en crudo)", "g": 180, "n": [26, 1, 6.5, 0.1, 0.5] },
+          { "emoji": "🍄", "name": "150g champignones fileteados", "g": 150, "n": [22, 3.1, 3.3, 0.3, 1] },
+          { "emoji": "🧈", "name": "30g manteca", "g": 30, "n": [717, 0.8, 0.1, 81, 0] },
+          { "emoji": "🧀", "name": "40g pecorino o queso rallado", "g": 40, "n": [392, 36, 3.2, 26, 0] },
+          { "emoji": "🥣", "name": "700ml caldo de verduras", "g": 700, "n": [4, 0.5, 0.5, 0.1, 0] }
         ]
       },
       {
@@ -137,19 +137,19 @@
       {
         "type": "ingredients",
         "items": [
-          { "emoji": "🐙", "name": "500 g pulpo cocido" },
-          { "emoji": "🥔", "name": "4 papas grandes" },
-          { "emoji": "🥚", "name": "3-4 huevos" },
-          { "emoji": "🥑", "name": "1 palta" },
-          { "emoji": "🥄", "name": "2-3 cdas mayonesa" },
-          { "emoji": "🌶️", "name": "Ají amarillo" },
-          { "emoji": "🍋", "name": "1 limón" },
-          { "emoji": "🧄", "name": "1 diente de ajo" },
-          { "emoji": "🌶️", "name": "Pimentón (paprika)" },
-          { "emoji": "🧅", "name": "1/2 cebolla" },
-          { "emoji": "🌿", "name": "Perejil" },
-          { "emoji": "🧀", "name": "Queso fresco" },
-          { "emoji": "🫒", "name": "Aceite de oliva, sal, vinagre" }
+          { "emoji": "🐙", "name": "500 g pulpo cocido", "g": 500, "n": [164, 30, 4, 2, 0] },
+          { "emoji": "🥔", "name": "4 papas grandes", "g": 810, "n": [77, 2, 17, 0.1, 2.2] },
+          { "emoji": "🥚", "name": "3-4 huevos", "g": 175, "n": [143, 12.6, 0.7, 9.5, 0] },
+          { "emoji": "🥑", "name": "1 palta", "g": 150, "n": [160, 2, 8.5, 14.7, 6.7] },
+          { "emoji": "🥄", "name": "2-3 cdas mayonesa", "g": 35, "n": [680, 1, 1, 75, 0] },
+          { "emoji": "🌶️", "name": "Ají amarillo", "g": 20, "n": [40, 2, 8, 0.4, 1.5] },
+          { "emoji": "🍋", "name": "1 limón", "g": 30, "n": [29, 1.1, 9.3, 0.3, 2.8] },
+          { "emoji": "🧄", "name": "1 diente de ajo", "g": 3, "n": [149, 6.4, 33, 0.5, 2.1] },
+          { "emoji": "🌶️", "name": "Pimentón (paprika)", "g": 2, "n": [280, 12, 50, 8, 30] },
+          { "emoji": "🧅", "name": "1/2 cebolla", "g": 55, "n": [40, 1.1, 9.3, 0.1, 1.7] },
+          { "emoji": "🌿", "name": "Perejil", "g": 3, "n": [30, 3, 5, 0.6, 3] },
+          { "emoji": "🧀", "name": "Queso fresco", "g": 40, "n": [250, 18, 3, 20, 0] },
+          { "emoji": "🫒", "name": "Aceite de oliva, sal, vinagre", "g": 15, "n": [884, 0, 0, 100, 0] }
         ]
       },
       {
@@ -226,21 +226,21 @@
       {
         "type": "ingredients",
         "items": [
-          { "emoji": "🍝", "name": "400 g pasta corta (penne o fusilli)" },
-          { "emoji": "🦐", "name": "400 g camarones pelados" },
-          { "emoji": "🍄", "name": "300 g champiñones en láminas" },
-          { "emoji": "🥬", "name": "200 g espinaca fresca" },
-          { "emoji": "🧄", "name": "3 dientes de ajo picados" },
-          { "emoji": "🧅", "name": "1 chalota o cebolla picada" },
-          { "emoji": "🥛", "name": "200 ml crema de leche (panna)" },
-          { "emoji": "🍷", "name": "80 ml vino blanco" },
-          { "emoji": "🧀", "name": "50 g parmesano rallado" },
-          { "emoji": "🧈", "name": "30 g manteca" },
-          { "emoji": "🫒", "name": "29.6 ml aceite de oliva" },
-          { "emoji": "🧂", "name": "4.9 ml sal" },
-          { "emoji": "🌶️", "name": "2 1/2 ml pimienta negra" },
-          { "emoji": "🍋", "name": "4.9 ml ralladura de limón" },
-          { "emoji": "🌿", "name": "29.6 ml perejil fresco picado" }
+          { "emoji": "🍝", "name": "400 g pasta corta (penne o fusilli)", "g": 400, "n": [371, 13, 75, 1.5, 3.2] },
+          { "emoji": "🦐", "name": "400 g camarones pelados", "g": 400, "n": [90, 20, 0.5, 1, 0] },
+          { "emoji": "🍄", "name": "300 g champiñones en láminas", "g": 300, "n": [22, 3.1, 3.3, 0.3, 1] },
+          { "emoji": "🥬", "name": "200 g espinaca fresca", "g": 200, "n": [23, 2.9, 3.6, 0.4, 2.2] },
+          { "emoji": "🧄", "name": "3 dientes de ajo picados", "g": 9, "n": [149, 6.4, 33, 0.5, 2.1] },
+          { "emoji": "🧅", "name": "1 chalota o cebolla picada", "g": 30, "n": [72, 2.5, 17, 0.1, 3.2] },
+          { "emoji": "🥛", "name": "200 ml crema de leche (panna)", "g": 200, "n": [265, 9, 49, 3.2, 2.7] },
+          { "emoji": "🍷", "name": "80 ml vino blanco", "g": 79, "n": [83, 0.1, 2.6, 0, 0] },
+          { "emoji": "🧀", "name": "50 g parmesano rallado", "g": 50, "n": [392, 36, 3.2, 26, 0] },
+          { "emoji": "🧈", "name": "30 g manteca", "g": 30, "n": [717, 0.8, 0.1, 81, 0] },
+          { "emoji": "🫒", "name": "29.6 ml aceite de oliva", "g": 27, "n": [884, 0, 0, 100, 0] },
+          { "emoji": "🧂", "name": "4.9 ml sal", "g": 5, "n": [0, 0, 0, 0, 0] },
+          { "emoji": "🌶️", "name": "2 1/2 ml pimienta negra", "g": 2, "n": [0, 0, 0, 0, 0] },
+          { "emoji": "🍋", "name": "4.9 ml ralladura de limón", "g": 5, "n": [29, 1.1, 9.3, 0.3, 2.8] },
+          { "emoji": "🌿", "name": "29.6 ml perejil fresco picado", "g": 30, "n": [30, 3, 5, 0.6, 3] }
         ]
       },
       {
@@ -267,17 +267,17 @@
       {
         "type": "ingredients",
         "items": [
-          { "emoji": "🌾", "name": "200g cous cous integral" },
-          { "emoji": "🐔", "name": "250g pollo en cubos (o cerdo: bondiola o solomillo)" },
-          { "emoji": "🥒", "name": "1 calabacín mediano en cubos" },
-          { "emoji": "🍅", "name": "150g tomate cherry" },
-          { "emoji": "🧅", "name": "1 cebolla morada" },
-          { "emoji": "🫘", "name": "150g garbanzos cocidos" },
-          { "emoji": "🧀", "name": "80g stracchino" },
-          { "emoji": "🧄", "name": "2 dientes ajo" },
-          { "emoji": "🌿", "name": "Albahaca fresca al gusto" },
-          { "emoji": "🍋", "name": "1 limón (jugo y ralladura)" },
-          { "emoji": "🫒", "name": "Aceite de oliva, sal, pimienta" }
+          { "emoji": "🌾", "name": "200g cous cous integral", "g": 200, "n": [350, 13, 72, 2, 8] },
+          { "emoji": "🐔", "name": "250g pollo en cubos (o cerdo: bondiola o solomillo)", "g": 250, "n": [180, 20, 0, 11, 0] },
+          { "emoji": "🥒", "name": "1 calabacín mediano en cubos", "g": 200, "n": [17, 1.2, 3.1, 0.3, 1] },
+          { "emoji": "🍅", "name": "150g tomate cherry", "g": 150, "n": [18, 0.9, 3.9, 0.2, 1.2] },
+          { "emoji": "🧅", "name": "1 cebolla morada", "g": 110, "n": [40, 1.1, 9.3, 0.1, 1.7] },
+          { "emoji": "🫘", "name": "150g garbanzos cocidos", "g": 150, "n": [164, 8.9, 27, 2.6, 7.6] },
+          { "emoji": "🧀", "name": "80g stracchino", "g": 80, "n": [300, 18, 1, 25, 0] },
+          { "emoji": "🧄", "name": "2 dientes ajo", "g": 6, "n": [149, 6.4, 33, 0.5, 2.1] },
+          { "emoji": "🌿", "name": "Albahaca fresca al gusto", "g": 3, "n": [30, 3, 5, 0.6, 3] },
+          { "emoji": "🍋", "name": "1 limón (jugo y ralladura)", "g": 30, "n": [29, 1.1, 9.3, 0.3, 2.8] },
+          { "emoji": "🫒", "name": "Aceite de oliva, sal, pimienta", "g": 15, "n": [884, 0, 0, 100, 0] }
         ]
       },
       {
@@ -304,17 +304,17 @@
       {
         "type": "ingredients",
         "items": [
-          { "emoji": "🥩", "name": "500g carne en cubos (aguja, cuadril o roast beef)" },
-          { "emoji": "🧅", "name": "400g cebolla en pluma (casi igual cantidad que la carne)" },
-          { "emoji": "🌶️", "name": "Pimentón dulce en polvo (generoso, 2-3 cucharadas)" },
-          { "emoji": "🫑", "name": "1 morrón grande" },
-          { "emoji": "🍅", "name": "2 tomates medianos (o 200g triturado)" },
-          { "emoji": "🧄", "name": "3 dientes ajo" },
-          { "emoji": "🥔", "name": "3 papas medianas en cubos" },
-          { "emoji": "🥬", "name": "300g col blanca en tiras" },
-          { "emoji": "🌿", "name": "Comino, laurel, orégano al gusto" },
-          { "emoji": "🥣", "name": "600ml caldo o agua" },
-          { "emoji": "🫒", "name": "Aceite, sal, pimienta" }
+          { "emoji": "🥩", "name": "500g carne en cubos (aguja, cuadril o roast beef)", "g": 500, "n": [182, 21, 0, 10, 0] },
+          { "emoji": "🧅", "name": "400g cebolla en pluma (casi igual cantidad que la carne)", "g": 400, "n": [40, 1.1, 9.3, 0.1, 1.7] },
+          { "emoji": "🌶️", "name": "Pimentón dulce en polvo (generoso, 2-3 cucharadas)", "g": 2, "n": [280, 12, 50, 8, 30] },
+          { "emoji": "🫑", "name": "1 morrón grande", "g": 162, "n": [31, 1, 6, 0.3, 2.1] },
+          { "emoji": "🍅", "name": "2 tomates medianos (o 200g triturado)", "g": 200, "n": [38, 1.7, 8.6, 0.2, 1.9] },
+          { "emoji": "🧄", "name": "3 dientes ajo", "g": 9, "n": [149, 6.4, 33, 0.5, 2.1] },
+          { "emoji": "🥔", "name": "3 papas medianas en cubos", "g": 450, "n": [77, 2, 17, 0.1, 2.2] },
+          { "emoji": "🥬", "name": "300g col blanca en tiras", "g": 300, "n": [25, 1.3, 5.8, 0.1, 2.5] },
+          { "emoji": "🌿", "name": "Comino, laurel, orégano al gusto", "g": 2, "n": [280, 12, 50, 8, 30] },
+          { "emoji": "🥣", "name": "600ml caldo o agua", "g": 600, "n": [4, 0.5, 0.5, 0.1, 0] },
+          { "emoji": "🫒", "name": "Aceite, sal, pimienta", "g": 15, "n": [884, 0, 0, 100, 0] }
         ]
       },
       {
@@ -342,13 +342,13 @@
       {
         "type": "ingredients",
         "items": [
-          { "emoji": "🍕", "name": "1 base de pizza mediana" },
-          { "emoji": "🍅", "name": "80g salsa de tomate" },
-          { "emoji": "🧅", "name": "1 cebolla mediana" },
-          { "emoji": "🐟", "name": "1 lata atún (160g)" },
-          { "emoji": "🥚", "name": "2 huevos" },
-          { "emoji": "🧀", "name": "200g queso mozzarella" },
-          { "emoji": "🌿", "name": "Orégano, sal, aceite de oliva" }
+          { "emoji": "🍕", "name": "1 base de pizza mediana", "g": 250, "n": [260, 9, 50, 3, 2] },
+          { "emoji": "🍅", "name": "80g salsa de tomate", "g": 80, "n": [38, 1.7, 8.6, 0.2, 1.9] },
+          { "emoji": "🧅", "name": "1 cebolla mediana", "g": 110, "n": [40, 1.1, 9.3, 0.1, 1.7] },
+          { "emoji": "🐟", "name": "1 lata atún (160g)", "g": 160, "n": [116, 26, 0, 1, 0] },
+          { "emoji": "🥚", "name": "2 huevos", "g": 100, "n": [143, 12.6, 0.7, 9.5, 0] },
+          { "emoji": "🧀", "name": "200g queso mozzarella", "g": 200, "n": [290, 22, 2.2, 22, 0] },
+          { "emoji": "🌿", "name": "Orégano, sal, aceite de oliva", "g": 15, "n": [884, 0, 0, 100, 0] }
         ]
       },
       {
@@ -372,17 +372,17 @@
       {
         "type": "ingredients",
         "items": [
-          { "emoji": "🐔", "name": "400g pollo en trozos" },
-          { "emoji": "🍄", "name": "150g champiñones fileteados" },
-          { "emoji": "🥦", "name": "200g brócoli en arbolitos" },
-          { "emoji": "🧄", "name": "2 dientes ajo picados" },
-          { "emoji": "🫚", "name": "1 cucharita jengibre en polvo" },
-          { "emoji": "🥢", "name": "3 cdas salsa de soja (45ml)" },
-          { "emoji": "🌽", "name": "1 cda maicena" },
-          { "emoji": "🍚", "name": "180g arroz blanco" },
-          { "emoji": "🌿", "name": "2 tallos cebolla de verdeo" },
-          { "emoji": "🫒", "name": "Aceite neutro, sal, pimienta" },
-          { "emoji": "🌾", "name": "1 cda semillas de sésamo" }
+          { "emoji": "🐔", "name": "400g pollo en trozos", "g": 400, "n": [120, 22.5, 0, 2.6, 0] },
+          { "emoji": "🍄", "name": "150g champiñones fileteados", "g": 150, "n": [22, 3.1, 3.3, 0.3, 1] },
+          { "emoji": "🥦", "name": "200g brócoli en arbolitos", "g": 200, "n": [34, 2.8, 6.6, 0.4, 2.6] },
+          { "emoji": "🧄", "name": "2 dientes ajo picados", "g": 6, "n": [149, 6.4, 33, 0.5, 2.1] },
+          { "emoji": "🫚", "name": "1 cucharita jengibre en polvo", "g": 2, "n": [80, 1.8, 18, 0.8, 2] },
+          { "emoji": "🥢", "name": "3 cdas salsa de soja (45ml)", "g": 52, "n": [53, 8, 4.9, 0.6, 0.8] },
+          { "emoji": "🌽", "name": "1 cda maicena", "g": 8, "n": [381, 0.3, 91, 0.1, 0.9] },
+          { "emoji": "🍚", "name": "180g arroz blanco", "g": 180, "n": [360, 6.6, 79, 0.6, 1.3] },
+          { "emoji": "🌿", "name": "2 tallos cebolla de verdeo", "g": 30, "n": [32, 1.8, 7.3, 0.2, 2.6] },
+          { "emoji": "🫒", "name": "Aceite neutro, sal, pimienta", "g": 15, "n": [884, 0, 0, 100, 0] },
+          { "emoji": "🌾", "name": "1 cda semillas de sésamo", "g": 9, "n": [573, 17.7, 23, 50, 12] }
         ]
       },
       {
@@ -408,14 +408,14 @@
       {
         "type": "ingredients",
         "items": [
-          { "emoji": "🐮", "name": "1 lengua de res entera (~1kg)" },
-          { "emoji": "🫑", "name": "800g morrón en cubos (4 medianos, casi tanto como la carne)" },
-          { "emoji": "🧅", "name": "2 cebollas medianas" },
-          { "emoji": "🥬", "name": "1 atado acelga (tallos en trozos, hojas reservadas)" },
-          { "emoji": "🌶️", "name": "2 cdas rojito en polvo" },
-          { "emoji": "🧄", "name": "3 dientes ajo picados" },
-          { "emoji": "🍚", "name": "100g arroz por persona al acompañar" },
-          { "emoji": "🫒", "name": "Aceite, sal, pimienta" }
+          { "emoji": "🐮", "name": "1 lengua de res entera (~1kg)", "g": 1000, "n": [224, 15, 0, 18, 0] },
+          { "emoji": "🫑", "name": "800g morrón en cubos (4 medianos, casi tanto como la carne)", "g": 800, "n": [31, 1, 6, 0.3, 2.1] },
+          { "emoji": "🧅", "name": "2 cebollas medianas", "g": 220, "n": [40, 1.1, 9.3, 0.1, 1.7] },
+          { "emoji": "🥬", "name": "1 atado acelga (tallos en trozos, hojas reservadas)", "g": 100, "n": [23, 2.9, 3.6, 0.4, 2.2] },
+          { "emoji": "🌶️", "name": "2 cdas rojito en polvo", "g": 30, "n": [280, 12, 50, 8, 30] },
+          { "emoji": "🧄", "name": "3 dientes ajo picados", "g": 9, "n": [149, 6.4, 33, 0.5, 2.1] },
+          { "emoji": "🍚", "name": "100g arroz por persona al acompañar", "g": 100, "n": [360, 6.6, 79, 0.6, 1.3] },
+          { "emoji": "🫒", "name": "Aceite, sal, pimienta", "g": 15, "n": [884, 0, 0, 100, 0] }
         ]
       },
       {
@@ -443,9 +443,9 @@
         "subtitle": "Pasta de cilantro",
         "subtitleEmoji": "🌿",
         "items": [
-          { "emoji": "🌿", "name": "1 atado cilantro fresco (tallos incluidos)" },
-          { "emoji": "🍺", "name": "100ml cerveza rubia (para licuar)" },
-          { "emoji": "🥬", "name": "Opcional: 1 hoja de espinaca para intensificar el verde" }
+          { "emoji": "🌿", "name": "1 atado cilantro fresco (tallos incluidos)", "g": 100, "n": [30, 3, 5, 0.6, 3] },
+          { "emoji": "🍺", "name": "100ml cerveza rubia (para licuar)", "g": 100, "n": [43, 0.5, 3.6, 0, 0] },
+          { "emoji": "🥬", "name": "Opcional: 1 hoja de espinaca para intensificar el verde", "g": 100, "n": [23, 2.9, 3.6, 0.4, 2.2] }
         ]
       },
       {
@@ -453,16 +453,16 @@
         "subtitle": "Arroz con pollo",
         "subtitleEmoji": "🍚",
         "items": [
-          { "emoji": "🐔", "name": "800g pollo en trozos" },
-          { "emoji": "🍚", "name": "400g arroz" },
-          { "emoji": "🫛", "name": "150g arvejas" },
-          { "emoji": "🥕", "name": "2 zanahorias medianas en cubos" },
-          { "emoji": "🫑", "name": "1 morrón grande en cubos" },
-          { "emoji": "🧅", "name": "1 cebolla grande picada" },
-          { "emoji": "🧄", "name": "3 dientes ajo picados" },
-          { "emoji": "🍺", "name": "200ml cerveza rubia" },
-          { "emoji": "🥣", "name": "600ml caldo o agua" },
-          { "emoji": "🫒", "name": "Aceite, sal, pimienta" }
+          { "emoji": "🐔", "name": "800g pollo en trozos", "g": 800, "n": [120, 22.5, 0, 2.6, 0] },
+          { "emoji": "🍚", "name": "400g arroz", "g": 400, "n": [360, 6.6, 79, 0.6, 1.3] },
+          { "emoji": "🫛", "name": "150g arvejas", "g": 150, "n": [81, 5.4, 14, 0.4, 5.7] },
+          { "emoji": "🥕", "name": "2 zanahorias medianas en cubos", "g": 120, "n": [41, 0.9, 10, 0.2, 2.8] },
+          { "emoji": "🫑", "name": "1 morrón grande en cubos", "g": 162, "n": [31, 1, 6, 0.3, 2.1] },
+          { "emoji": "🧅", "name": "1 cebolla grande picada", "g": 148, "n": [40, 1.1, 9.3, 0.1, 1.7] },
+          { "emoji": "🧄", "name": "3 dientes ajo picados", "g": 9, "n": [149, 6.4, 33, 0.5, 2.1] },
+          { "emoji": "🍺", "name": "200ml cerveza rubia", "g": 200, "n": [43, 0.5, 3.6, 0, 0] },
+          { "emoji": "🥣", "name": "600ml caldo o agua", "g": 600, "n": [4, 0.5, 0.5, 0.1, 0] },
+          { "emoji": "🫒", "name": "Aceite, sal, pimienta", "g": 15, "n": [884, 0, 0, 100, 0] }
         ]
       },
       {
@@ -492,11 +492,11 @@
         "subtitle": "Salsa BBQ",
         "subtitleEmoji": "🍯",
         "items": [
-          { "emoji": "🍅", "name": "3 cucharadas ketchup (o pasta de tomate)" },
-          { "emoji": "🫙", "name": "2 cucharadas vinagre" },
-          { "emoji": "🟡", "name": "1 cucharada mostaza" },
-          { "emoji": "🍯", "name": "1 cucharadita miel" },
-          { "emoji": "🎋", "name": "Opcional: un chorrito de caldo de caña" }
+          { "emoji": "🍅", "name": "3 cucharadas ketchup (o pasta de tomate)", "g": 45, "n": [38, 1.7, 8.6, 0.2, 1.9] },
+          { "emoji": "🫙", "name": "2 cucharadas vinagre", "g": 30, "n": [20, 0, 0.6, 0, 0] },
+          { "emoji": "🟡", "name": "1 cucharada mostaza", "g": 15, "n": [66, 4, 5, 3.3, 3.3] },
+          { "emoji": "🍯", "name": "1 cucharadita miel", "g": 7, "n": [304, 0.3, 82, 0, 0.2] },
+          { "emoji": "🎋", "name": "Opcional: un chorrito de caldo de caña", "g": 100, "n": [4, 0.5, 0.5, 0.1, 0] }
         ]
       },
       {
@@ -504,8 +504,8 @@
         "subtitle": "Costillitas y batata",
         "subtitleEmoji": "🥩",
         "items": [
-          { "emoji": "🥩", "name": "600g costillitas de cerdo (con hueso)" },
-          { "emoji": "🍠", "name": "500g batata doce" }
+          { "emoji": "🥩", "name": "600g costillitas de cerdo (con hueso)", "g": 600, "n": [277, 17, 0, 23, 0] },
+          { "emoji": "🍠", "name": "500g batata doce", "g": 500, "n": [86, 1.6, 20, 0.1, 3] }
         ]
       },
       {
@@ -513,8 +513,8 @@
         "subtitle": "Ensalada",
         "subtitleEmoji": "🥗",
         "items": [
-          { "emoji": "🥬", "name": "240g hojas verdes mixtas (lechuga, rúcula, espinaca)" },
-          { "emoji": "🫒", "name": "Aceite de oliva, limón y sal" }
+          { "emoji": "🥬", "name": "240g hojas verdes mixtas (lechuga, rúcula, espinaca)", "g": 240, "n": [23, 2.9, 3.6, 0.4, 2.2] },
+          { "emoji": "🫒", "name": "Aceite de oliva, limón y sal", "g": 15, "n": [884, 0, 0, 100, 0] }
         ]
       },
       {
@@ -539,16 +539,16 @@
       {
         "type": "ingredients",
         "items": [
-          { "emoji": "🥩", "name": "500g carne picada" },
-          { "emoji": "🫘", "name": "200g garbanzos cocidos y pisados" },
-          { "emoji": "🧅", "name": "1 cebolla chica, picada" },
-          { "emoji": "🧄", "name": "1 diente de ajo, picado" },
-          { "emoji": "🥚", "name": "1 huevo" },
-          { "emoji": "🌾", "name": "3 cucharadas de harina de trigo sarraceno" },
-          { "emoji": "🥣", "name": "1 cucharadita de caldito de verduras en polvo" },
-          { "emoji": "🧂", "name": "1/2 cucharadita de sal" },
-          { "emoji": "🌶️", "name": "1/4 cucharadita de pimienta" },
-          { "emoji": "🌿", "name": "Opcional: 1 cucharadita de comino y 2 cucharadas de perejil picado" }
+          { "emoji": "🥩", "name": "500g carne picada", "g": 500, "n": [254, 17.2, 0, 20, 0] },
+          { "emoji": "🫘", "name": "200g garbanzos cocidos y pisados", "g": 200, "n": [164, 8.9, 27, 2.6, 7.6] },
+          { "emoji": "🧅", "name": "1 cebolla chica, picada", "g": 110, "n": [40, 1.1, 9.3, 0.1, 1.7] },
+          { "emoji": "🧄", "name": "1 diente de ajo, picado", "g": 3, "n": [149, 6.4, 33, 0.5, 2.1] },
+          { "emoji": "🥚", "name": "1 huevo", "g": 50, "n": [143, 12.6, 0.7, 9.5, 0] },
+          { "emoji": "🌾", "name": "3 cucharadas de harina de trigo sarraceno", "g": 45, "n": [335, 12.6, 71, 3.1, 10] },
+          { "emoji": "🥣", "name": "1 cucharadita de caldito de verduras en polvo", "g": 4, "n": [200, 10, 20, 10, 0] },
+          { "emoji": "🧂", "name": "1/2 cucharadita de sal", "g": 3, "n": [0, 0, 0, 0, 0] },
+          { "emoji": "🌶️", "name": "1/4 cucharadita de pimienta", "g": 2, "n": [0, 0, 0, 0, 0] },
+          { "emoji": "🌿", "name": "Opcional: 1 cucharadita de comino y 2 cucharadas de perejil picado", "g": 2, "n": [280, 12, 50, 8, 30] }
         ]
       },
       {
@@ -566,18 +566,18 @@
         "subtitle": "Opcionales para armar (formato hamburguesa o plato)",
         "subtitleEmoji": "🧩",
         "items": [
-          { "emoji": "🧀", "name": "Queso — en fetas, al armar" },
-          { "emoji": "🥬", "name": "Lechuga — fresca, al armar" },
-          { "emoji": "🥚", "name": "Huevo — frito, poché o duro" },
-          { "emoji": "🍅", "name": "Tomate — en rodajas, al armar" },
-          { "emoji": "🥔", "name": "Papas — al horno, en gajos o rodajas" },
-          { "emoji": "🥑", "name": "Palta — en láminas o pisada, al armar" },
-          { "emoji": "🍠", "name": "Batatas — al horno, en gajos o rodajas" },
-          { "emoji": "🧅", "name": "Cebolla caramelizada — en pluma, fuego bajo y lento hasta dorada" },
-          { "emoji": "🫑", "name": "Morrones asados — al horno o a la llama, pelados y en tiras" },
-          { "emoji": "🍄", "name": "Champiñones salteados — fileteados, fuego fuerte hasta evaporar el agua" },
-          { "emoji": "🍆", "name": "Berenjena grillada — en rodajas, a la plancha hasta marcar" },
-          { "emoji": "🥫", "name": "Salsas varias — a elección" }
+          { "emoji": "🧀", "name": "Queso — en fetas, al armar", "g": 60, "n": [290, 18, 3, 24, 0] },
+          { "emoji": "🥬", "name": "Lechuga — fresca, al armar", "g": 40, "n": [17, 1.5, 3, 0.2, 1.5] },
+          { "emoji": "🥚", "name": "Huevo — frito, poché o duro", "g": 50, "n": [143, 12.6, 0.7, 9.5, 0] },
+          { "emoji": "🍅", "name": "Tomate — en rodajas, al armar", "g": 120, "n": [18, 0.9, 3.9, 0.2, 1.2] },
+          { "emoji": "🥔", "name": "Papas — al horno, en gajos o rodajas", "g": 10, "n": [149, 6.4, 33, 0.5, 2.1] },
+          { "emoji": "🥑", "name": "Palta — en láminas o pisada, al armar", "g": 100, "n": [160, 2, 8.5, 14.7, 6.7] },
+          { "emoji": "🍠", "name": "Batatas — al horno, en gajos o rodajas", "g": 10, "n": [149, 6.4, 33, 0.5, 2.1] },
+          { "emoji": "🧅", "name": "Cebolla caramelizada — en pluma, fuego bajo y lento hasta dorada", "g": 110, "n": [40, 1.1, 9.3, 0.1, 1.7] },
+          { "emoji": "🫑", "name": "Morrones asados — al horno o a la llama, pelados y en tiras", "g": 120, "n": [31, 1, 6, 0.3, 2.1] },
+          { "emoji": "🍄", "name": "Champiñones salteados — fileteados, fuego fuerte hasta evaporar el agua", "g": 100, "n": [22, 3.1, 3.3, 0.3, 1] },
+          { "emoji": "🍆", "name": "Berenjena grillada — en rodajas, a la plancha hasta marcar", "g": 150, "n": [25, 1, 6, 0.2, 3] },
+          { "emoji": "🥫", "name": "Salsas varias — a elección", "g": 1, "n": [0, 0, 0, 0, 0] }
         ]
       }
     ]
@@ -593,15 +593,15 @@
         "subtitle": "Salteado",
         "subtitleEmoji": "🥡",
         "items": [
-          { "emoji": "🍜", "name": "Tallarines" },
-          { "emoji": "🐔", "name": "Pollo, cerdo o carne en tiras" },
-          { "emoji": "🥒", "name": "Zucchini" },
-          { "emoji": "🥕", "name": "Zanahoria" },
-          { "emoji": "🧅", "name": "Cebolla" },
-          { "emoji": "🌿", "name": "Cebolla de verdeo" },
-          { "emoji": "🫑", "name": "Morrón" },
-          { "emoji": "🧄", "name": "Ajo" },
-          { "emoji": "🍄", "name": "Hongos" }
+          { "emoji": "🍜", "name": "Tallarines", "g": 200, "n": [371, 13, 75, 1.5, 3.2] },
+          { "emoji": "🐔", "name": "Pollo, cerdo o carne en tiras", "g": 250, "n": [180, 20, 0, 11, 0] },
+          { "emoji": "🥒", "name": "Zucchini", "g": 200, "n": [17, 1.2, 3.1, 0.3, 1] },
+          { "emoji": "🥕", "name": "Zanahoria", "g": 60, "n": [41, 0.9, 10, 0.2, 2.8] },
+          { "emoji": "🧅", "name": "Cebolla", "g": 110, "n": [40, 1.1, 9.3, 0.1, 1.7] },
+          { "emoji": "🌿", "name": "Cebolla de verdeo", "g": 30, "n": [32, 1.8, 7.3, 0.2, 2.6] },
+          { "emoji": "🫑", "name": "Morrón", "g": 120, "n": [31, 1, 6, 0.3, 2.1] },
+          { "emoji": "🧄", "name": "Ajo", "g": 10, "n": [149, 6.4, 33, 0.5, 2.1] },
+          { "emoji": "🍄", "name": "Hongos", "g": 100, "n": [22, 3.1, 3.3, 0.3, 1] }
         ]
       },
       {
@@ -609,12 +609,12 @@
         "subtitle": "Salsa",
         "subtitleEmoji": "🥣",
         "items": [
-          { "emoji": "🥢", "name": "Salsa de soja" },
-          { "emoji": "🦪", "name": "Salsa de ostión" },
-          { "emoji": "🫚", "name": "Jengibre" },
-          { "emoji": "🍯", "name": "Miel" },
-          { "emoji": "💧", "name": "Agua" },
-          { "emoji": "🌽", "name": "Agua con almidón (maicena disuelta)" }
+          { "emoji": "🥢", "name": "Salsa de soja", "g": 15, "n": [53, 8, 4.9, 0.6, 0.8] },
+          { "emoji": "🦪", "name": "Salsa de ostión", "g": 15, "n": [51, 2, 11, 0.3, 0.1] },
+          { "emoji": "🫚", "name": "Jengibre", "g": 5, "n": [80, 1.8, 18, 0.8, 2] },
+          { "emoji": "🍯", "name": "Miel", "g": 10, "n": [304, 0.3, 82, 0, 0.2] },
+          { "emoji": "💧", "name": "Agua", "g": 50, "n": [0, 0, 0, 0, 0] },
+          { "emoji": "🌽", "name": "Agua con almidón (maicena disuelta)", "g": 10, "n": [381, 0.3, 91, 0.1, 0.9] }
         ]
       },
       {
@@ -639,12 +639,12 @@
         "subtitle": "Para el rebozado",
         "subtitleEmoji": "🥣",
         "items": [
-          { "emoji": "🫙", "name": "3 cucharadas de mayonesa" },
-          { "emoji": "🥛", "name": "3 cucharadas de yogur griego" },
-          { "emoji": "🟡", "name": "1 a 2 cucharaditas de mostaza" },
-          { "emoji": "🧄", "name": "2 dientes de ajo" },
-          { "emoji": "🍞", "name": "Pan rallado, cantidad necesaria" },
-          { "emoji": "🧂", "name": "Sal y pimienta" }
+          { "emoji": "🫙", "name": "3 cucharadas de mayonesa", "g": 42, "n": [680, 1, 1, 75, 0] },
+          { "emoji": "🥛", "name": "3 cucharadas de yogur griego", "g": 45, "n": [100, 9, 4, 5, 0] },
+          { "emoji": "🟡", "name": "1 a 2 cucharaditas de mostaza", "g": 8, "n": [66, 4, 5, 3.3, 3.3] },
+          { "emoji": "🧄", "name": "2 dientes de ajo", "g": 6, "n": [149, 6.4, 33, 0.5, 2.1] },
+          { "emoji": "🍞", "name": "Pan rallado, cantidad necesaria", "g": 30, "n": [395, 13, 72, 5, 4.5] },
+          { "emoji": "🧂", "name": "Sal y pimienta", "g": 1, "n": [0, 0, 0, 0, 0] }
         ]
       },
       {
@@ -652,12 +652,12 @@
         "subtitle": "Para la bandeja",
         "subtitleEmoji": "🍗",
         "items": [
-          { "emoji": "🍗", "name": "4 presas de pollo (o 3 pechugas)" },
-          { "emoji": "🥦", "name": "1/2 coliflor" },
-          { "emoji": "🥕", "name": "2 zanahorias" },
-          { "emoji": "🧅", "name": "1 cebolla" },
-          { "emoji": "🥛", "name": "Un chorrito de leche" },
-          { "emoji": "🫒", "name": "Aceite de oliva" }
+          { "emoji": "🍗", "name": "4 presas de pollo (o 3 pechugas)", "g": 400, "n": [120, 22.5, 0, 2.6, 0] },
+          { "emoji": "🥦", "name": "1/2 coliflor", "g": 300, "n": [25, 1.9, 5, 0.3, 2] },
+          { "emoji": "🥕", "name": "2 zanahorias", "g": 120, "n": [41, 0.9, 10, 0.2, 2.8] },
+          { "emoji": "🧅", "name": "1 cebolla", "g": 110, "n": [40, 1.1, 9.3, 0.1, 1.7] },
+          { "emoji": "🥛", "name": "Un chorrito de leche", "g": 30, "n": [62, 3.2, 4.8, 3.3, 0] },
+          { "emoji": "🫒", "name": "Aceite de oliva", "g": 15, "n": [884, 0, 0, 100, 0] }
         ]
       },
       {
@@ -665,8 +665,8 @@
         "subtitle": "Para el arroz",
         "subtitleEmoji": "🍚",
         "items": [
-          { "emoji": "🍚", "name": "1 taza de arroz" },
-          { "emoji": "🫛", "name": "1 taza de arvejas" }
+          { "emoji": "🍚", "name": "1 taza de arroz", "g": 185, "n": [360, 6.6, 79, 0.6, 1.3] },
+          { "emoji": "🫛", "name": "1 taza de arvejas", "g": 145, "n": [81, 5.4, 14, 0.4, 5.7] }
         ]
       },
       {
@@ -691,16 +691,16 @@
       {
         "type": "ingredients",
         "items": [
-          { "emoji": "🍆", "name": "3 berenjenas medianas" },
-          { "emoji": "🥩", "name": "300 g de carne molida" },
-          { "emoji": "🧅", "name": "1 cebolla" },
-          { "emoji": "🧄", "name": "2 dientes de ajo" },
-          { "emoji": "🍅", "name": "700 g de puré de tomate" },
-          { "emoji": "🧀", "name": "300 g de muzzarella" },
-          { "emoji": "🧀", "name": "80 g de queso rallado" },
-          { "emoji": "🫒", "name": "Aceite de oliva" },
-          { "emoji": "🧂", "name": "Sal, pimienta y orégano" },
-          { "emoji": "🍬", "name": "Una pizca de azúcar" }
+          { "emoji": "🍆", "name": "3 berenjenas medianas", "g": 750, "n": [25, 1, 6, 0.2, 3] },
+          { "emoji": "🥩", "name": "300 g de carne molida", "g": 300, "n": [254, 17.2, 0, 20, 0] },
+          { "emoji": "🧅", "name": "1 cebolla", "g": 110, "n": [40, 1.1, 9.3, 0.1, 1.7] },
+          { "emoji": "🧄", "name": "2 dientes de ajo", "g": 6, "n": [149, 6.4, 33, 0.5, 2.1] },
+          { "emoji": "🍅", "name": "700 g de puré de tomate", "g": 700, "n": [38, 1.7, 8.6, 0.2, 1.9] },
+          { "emoji": "🧀", "name": "300 g de muzzarella", "g": 300, "n": [290, 22, 2.2, 22, 0] },
+          { "emoji": "🧀", "name": "80 g de queso rallado", "g": 80, "n": [392, 36, 3.2, 26, 0] },
+          { "emoji": "🫒", "name": "Aceite de oliva", "g": 15, "n": [884, 0, 0, 100, 0] },
+          { "emoji": "🧂", "name": "Sal, pimienta y orégano", "g": 2, "n": [280, 12, 50, 8, 30] },
+          { "emoji": "🍬", "name": "Una pizca de azúcar", "g": 10, "n": [387, 0, 100, 0, 0] }
         ]
       },
       {
@@ -728,15 +728,15 @@
         "subtitle": "Para la salsa",
         "subtitleEmoji": "🍅",
         "items": [
-          { "emoji": "🍅", "name": "700 g de puré de tomate" },
-          { "emoji": "🧅", "name": "1 cebolla" },
-          { "emoji": "🥕", "name": "2 zanahorias" },
-          { "emoji": "🫑", "name": "1 morrón" },
-          { "emoji": "🍄", "name": "200 g de hongos" },
-          { "emoji": "🧄", "name": "3 dientes de ajo" },
-          { "emoji": "🫘", "name": "120 g de lentejas rojas (opcional)" },
-          { "emoji": "🫒", "name": "Aceite de oliva" },
-          { "emoji": "🧂", "name": "Sal, pimienta y orégano" }
+          { "emoji": "🍅", "name": "700 g de puré de tomate", "g": 700, "n": [38, 1.7, 8.6, 0.2, 1.9] },
+          { "emoji": "🧅", "name": "1 cebolla", "g": 110, "n": [40, 1.1, 9.3, 0.1, 1.7] },
+          { "emoji": "🥕", "name": "2 zanahorias", "g": 120, "n": [41, 0.9, 10, 0.2, 2.8] },
+          { "emoji": "🫑", "name": "1 morrón", "g": 120, "n": [31, 1, 6, 0.3, 2.1] },
+          { "emoji": "🍄", "name": "200 g de hongos", "g": 200, "n": [22, 3.1, 3.3, 0.3, 1] },
+          { "emoji": "🧄", "name": "3 dientes de ajo", "g": 9, "n": [149, 6.4, 33, 0.5, 2.1] },
+          { "emoji": "🫘", "name": "120 g de lentejas rojas (opcional)", "g": 120, "n": [116, 9, 20, 0.4, 7.9] },
+          { "emoji": "🫒", "name": "Aceite de oliva", "g": 15, "n": [884, 0, 0, 100, 0] },
+          { "emoji": "🧂", "name": "Sal, pimienta y orégano", "g": 2, "n": [280, 12, 50, 8, 30] }
         ]
       },
       {
@@ -744,12 +744,12 @@
         "subtitle": "Para las albóndigas",
         "subtitleEmoji": "🧆",
         "items": [
-          { "emoji": "🥩", "name": "500 g de carne molida" },
-          { "emoji": "🌾", "name": "40 g de avena" },
-          { "emoji": "🥛", "name": "60 ml de leche" },
-          { "emoji": "🥚", "name": "1 huevo" },
-          { "emoji": "🥕", "name": "1 zanahoria" },
-          { "emoji": "🧂", "name": "Sal y pimienta" }
+          { "emoji": "🥩", "name": "500 g de carne molida", "g": 500, "n": [254, 17.2, 0, 20, 0] },
+          { "emoji": "🌾", "name": "40 g de avena", "g": 40, "n": [389, 16.9, 66, 6.9, 10.6] },
+          { "emoji": "🥛", "name": "60 ml de leche", "g": 62, "n": [62, 3.2, 4.8, 3.3, 0] },
+          { "emoji": "🥚", "name": "1 huevo", "g": 50, "n": [143, 12.6, 0.7, 9.5, 0] },
+          { "emoji": "🥕", "name": "1 zanahoria", "g": 60, "n": [41, 0.9, 10, 0.2, 2.8] },
+          { "emoji": "🧂", "name": "Sal y pimienta", "g": 1, "n": [0, 0, 0, 0, 0] }
         ]
       },
       {
@@ -757,7 +757,7 @@
         "subtitle": "Para la pasta",
         "subtitleEmoji": "🍝",
         "items": [
-          { "emoji": "🍝", "name": "400 g de tallarines" }
+          { "emoji": "🍝", "name": "400 g de tallarines", "g": 400, "n": [371, 13, 75, 1.5, 3.2] }
         ]
       },
       {
@@ -784,14 +784,14 @@
       {
         "type": "ingredients",
         "items": [
-          { "emoji": "🫓", "name": "2 tapas de masa para tarta" },
-          { "emoji": "🥒", "name": "600 g de zucchini" },
-          { "emoji": "🧅", "name": "1 cebolla" },
-          { "emoji": "🥚", "name": "3 huevos" },
-          { "emoji": "🧀", "name": "200 g de queso cremoso o muzzarella" },
-          { "emoji": "🧀", "name": "50 g de queso rallado" },
-          { "emoji": "🫒", "name": "Aceite de oliva" },
-          { "emoji": "🧂", "name": "Sal, pimienta y nuez moscada" }
+          { "emoji": "🫓", "name": "2 tapas de masa para tarta", "g": 400, "n": [430, 6, 45, 25, 1.5] },
+          { "emoji": "🥒", "name": "600 g de zucchini", "g": 600, "n": [17, 1.2, 3.1, 0.3, 1] },
+          { "emoji": "🧅", "name": "1 cebolla", "g": 110, "n": [40, 1.1, 9.3, 0.1, 1.7] },
+          { "emoji": "🥚", "name": "3 huevos", "g": 150, "n": [143, 12.6, 0.7, 9.5, 0] },
+          { "emoji": "🧀", "name": "200 g de queso cremoso o muzzarella", "g": 200, "n": [290, 22, 2.2, 22, 0] },
+          { "emoji": "🧀", "name": "50 g de queso rallado", "g": 50, "n": [392, 36, 3.2, 26, 0] },
+          { "emoji": "🫒", "name": "Aceite de oliva", "g": 15, "n": [884, 0, 0, 100, 0] },
+          { "emoji": "🧂", "name": "Sal, pimienta y nuez moscada", "g": 2, "n": [280, 12, 50, 8, 30] }
         ]
       },
       {
@@ -819,15 +819,15 @@
         "subtitle": "Para el stroganoff",
         "subtitleEmoji": "🍄",
         "items": [
-          { "emoji": "🍗", "name": "600 g de pechuga de pollo en cubos" },
-          { "emoji": "🍄", "name": "400 g de hongos" },
-          { "emoji": "🧅", "name": "1 cebolla" },
-          { "emoji": "🧄", "name": "2 dientes de ajo" },
-          { "emoji": "🍅", "name": "200 g de puré de tomate" },
-          { "emoji": "🟡", "name": "1 cucharada de mostaza" },
-          { "emoji": "🥛", "name": "200 ml de crema de leche" },
-          { "emoji": "🧈", "name": "Aceite o manteca" },
-          { "emoji": "🧂", "name": "Sal y pimienta" }
+          { "emoji": "🍗", "name": "600 g de pechuga de pollo en cubos", "g": 600, "n": [120, 22.5, 0, 2.6, 0] },
+          { "emoji": "🍄", "name": "400 g de hongos", "g": 400, "n": [22, 3.1, 3.3, 0.3, 1] },
+          { "emoji": "🧅", "name": "1 cebolla", "g": 110, "n": [40, 1.1, 9.3, 0.1, 1.7] },
+          { "emoji": "🧄", "name": "2 dientes de ajo", "g": 6, "n": [149, 6.4, 33, 0.5, 2.1] },
+          { "emoji": "🍅", "name": "200 g de puré de tomate", "g": 200, "n": [38, 1.7, 8.6, 0.2, 1.9] },
+          { "emoji": "🟡", "name": "1 cucharada de mostaza", "g": 15, "n": [66, 4, 5, 3.3, 3.3] },
+          { "emoji": "🥛", "name": "200 ml de crema de leche", "g": 200, "n": [340, 2.5, 3, 36, 0] },
+          { "emoji": "🧈", "name": "Aceite o manteca", "g": 20, "n": [717, 0.8, 0.1, 81, 0] },
+          { "emoji": "🧂", "name": "Sal y pimienta", "g": 1, "n": [0, 0, 0, 0, 0] }
         ]
       },
       {
@@ -835,9 +835,9 @@
         "subtitle": "Para acompañar",
         "subtitleEmoji": "🍚",
         "items": [
-          { "emoji": "🍚", "name": "1 taza de arroz" },
-          { "emoji": "🫛", "name": "3/4 taza de arvejas" },
-          { "emoji": "🍟", "name": "Batata palha, para servir" }
+          { "emoji": "🍚", "name": "1 taza de arroz", "g": 185, "n": [360, 6.6, 79, 0.6, 1.3] },
+          { "emoji": "🫛", "name": "3/4 taza de arvejas", "g": 109, "n": [81, 5.4, 14, 0.4, 5.7] },
+          { "emoji": "🍟", "name": "Batata palha, para servir", "g": 30, "n": [500, 5, 55, 30, 4] }
         ]
       },
       {
@@ -862,16 +862,16 @@
       {
         "type": "ingredients",
         "items": [
-          { "emoji": "🦆", "name": "1 pechuga de pato con piel (~470 g)" },
-          { "emoji": "🥔", "name": "500 g de papas en cubos" },
-          { "emoji": "🫘", "name": "240 g de lentejas cocidas y escurridas" },
-          { "emoji": "🧅", "name": "1 cebolla" },
-          { "emoji": "🥕", "name": "1 zanahoria" },
-          { "emoji": "🍷", "name": "150 ml de vino tinto" },
-          { "emoji": "🍯", "name": "1 cucharadita de miel" },
-          { "emoji": "🍅", "name": "2 tomates" },
-          { "emoji": "🫒", "name": "Aceite de oliva" },
-          { "emoji": "🧂", "name": "Sal y pimienta negra" }
+          { "emoji": "🦆", "name": "1 pechuga de pato con piel (~470 g)", "g": 470, "n": [340, 18, 0, 30, 0] },
+          { "emoji": "🥔", "name": "500 g de papas en cubos", "g": 500, "n": [77, 2, 17, 0.1, 2.2] },
+          { "emoji": "🫘", "name": "240 g de lentejas cocidas y escurridas", "g": 240, "n": [116, 9, 20, 0.4, 7.9] },
+          { "emoji": "🧅", "name": "1 cebolla", "g": 110, "n": [40, 1.1, 9.3, 0.1, 1.7] },
+          { "emoji": "🥕", "name": "1 zanahoria", "g": 60, "n": [41, 0.9, 10, 0.2, 2.8] },
+          { "emoji": "🍷", "name": "150 ml de vino tinto", "g": 148, "n": [83, 0.1, 2.6, 0, 0] },
+          { "emoji": "🍯", "name": "1 cucharadita de miel", "g": 7, "n": [304, 0.3, 82, 0, 0.2] },
+          { "emoji": "🍅", "name": "2 tomates", "g": 240, "n": [18, 0.9, 3.9, 0.2, 1.2] },
+          { "emoji": "🫒", "name": "Aceite de oliva", "g": 15, "n": [884, 0, 0, 100, 0] },
+          { "emoji": "🧂", "name": "Sal y pimienta negra", "g": 1, "n": [0, 0, 0, 0, 0] }
         ]
       },
       {
