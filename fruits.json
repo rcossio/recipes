@@ -1,0 +1,10 @@
+[
+  { "id": "arandanos", "emoji": "🫐", "name": "Arándanos", "unit": "1 taza (~150 g)", "unitG": 150, "n": [57, 0.7, 14.5, 0.3, 2.4] },
+  { "id": "naranja", "emoji": "🍊", "name": "Naranja", "unit": "1 naranja mediana (~130 g)", "unitG": 130, "n": [47, 0.9, 11.8, 0.1, 2.4] },
+  { "id": "durazno", "emoji": "🍑", "name": "Durazno", "unit": "1 durazno (~150 g)", "unitG": 150, "n": [39, 0.9, 9.5, 0.3, 1.5] },
+  { "id": "banana", "emoji": "🍌", "name": "Banana", "unit": "1 banana mediana (~120 g)", "unitG": 120, "n": [89, 1.1, 22.8, 0.3, 2.6] },
+  { "id": "sandia", "emoji": "🍉", "name": "Sandía", "unit": "1 tajada (~280 g)", "unitG": 280, "n": [30, 0.6, 7.6, 0.2, 0.4] },
+  { "id": "manzana", "emoji": "🍎", "name": "Manzana", "unit": "1 manzana mediana (~180 g)", "unitG": 180, "n": [52, 0.3, 13.8, 0.2, 2.4] },
+  { "id": "cereza", "emoji": "🍒", "name": "Cereza", "unit": "1 taza (~150 g)", "unitG": 150, "n": [63, 1.1, 16, 0.2, 2.1] },
+  { "id": "uva-blanca", "emoji": "🍇", "name": "Uva blanca", "unit": "1 racimo chico (~150 g)", "unitG": 150, "n": [69, 0.7, 18, 0.2, 0.9] }
+]
