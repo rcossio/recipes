@@ -862,7 +862,7 @@
       {
         "type": "ingredients",
         "items": [
-          { "emoji": "🦆", "name": "1 pechuga de pato con piel (~470 g)", "g": 470, "n": [340, 18, 0, 30, 0] },
+          { "emoji": "🦆", "name": "1 pechuga de pato con piel (~470 g)", "g": 470, "n": [200, 19, 0, 9, 0] },
           { "emoji": "🥔", "name": "500 g de papas en cubos", "g": 500, "n": [77, 2, 17, 0.1, 2.2] },
           { "emoji": "🫘", "name": "240 g de lentejas cocidas y escurridas", "g": 240, "n": [116, 9, 20, 0.4, 7.9] },
           { "emoji": "🧅", "name": "1 cebolla", "g": 110, "n": [40, 1.1, 9.3, 0.1, 1.7] },
