@@ -105,7 +105,7 @@ function MacroPanel({ totals, servings, unit }) {
         </div>
       </div>
       <p className="text-[10px] text-gray-400 mt-1.5 text-center">
-        por porción · plato entero {round(totals[0])} kcal ({servings} {unitLabel(unit, servings)})
+        por porción
       </p>
     </div>
   )
